@@ -4,16 +4,26 @@
 	- [ ] DAMIP 
 	- [ ] RAMIP
 - [ ] [[Statistical_Analysis_in_Climate_Research.pdf|Statistical Analysis Book]] 📅 2026-10-14
-	- [ ] Section 7.4
-	- [ ] Section 2.8
-	- [ ] Section 8.4
+	- [ ] Section 2.8 (Random vectors, multivariate normal)
+	- [ ] Section 6.1, 6.2, 6.5 (Hypothesis testing, multivariate tests)
+	- [ ] Section 8.4 (Multiple regression)
+	- [ ] Section 8.6.1 (Weighted regression → GLS / pre-whitening)
 	- [ ] Section 13.1
 	- [ ] Section 13.2
-	- [ ] OFM and optimal filters from chapter 17
-	- [ ] Section 2.9
-- [ ] Statistical Methods Papers 📅 2026-10-14
-	- [ ] [[OFM_allen_tett_1999.pdf|OFM Foundational Papers (Allen,Tett 1999)]]
-	- [ ] [[Review_on_OFM_Chen_et_al_2022.pdf|OFM Review]]
+	- [ ] Section 13.3 (EOF inference, truncation / selection rules)
+	- [ ] Section 7.4 (Detecting the CO2 signal — the book's only OFM content)
+	- [ ] Section 2.9 (Extreme value distributions — for extremes D&A)
+- [ ] D&A Conceptual Overview 📅 2026-10-15
+	- [ ] [[IPCC_DA_Good_Practice_Guidance_Hegerl_et_al_2010.pdf|Hegerl et al 2010  IPCC Good Practice Guidance Paper on D&A]]
+	- [ ] [[IPCC_AR6_WG1_Ch3_Human_Influence_Eyring_et_al_2021.pdf|IPCC AR6 WG1 Ch. 3, Section 3.2 (D&A methods)]]
+- [ ] Statistical Methods Papers 📅 2026-10-15
+	- [ ] [[Multi_Pattern_Fingerprint_Hasselmann_1997.pdf|Hasselmann 1997 — Multi-pattern fingerprint method (Clim Dyn)]]
+	- [ ] [[OFM_allen_tett_1999.pdf|OFM GLS formulation & residual consistency test (Allen, Tett 1999)]]
 	- [ ] [[Estimating_Signal_Amplitudes_in_OFM_Allen_Stott_2003.pdf|OFM & TLS]]
-	- [ ] [[Improved_OFM_2025.pdf|Improved OFM]]
-	- [ ] [[ROF_Ribes_et_al_CLIMDYN_2013.pdf|ROF]]
+	- [ ] [[ROF_Ribes_et_al_CLIMDYN_2013.pdf|ROF]] (method used in Chaithra 2026)
+- [ ] D&A of Extremes 📅 2026-10-16
+	- [ ] [[Human_Contribution_Precip_Extremes_Min_et_al_2011.pdf|Min et al 2011 (Nature)]] and/or [[Attributing_Precip_Extremes_Zhang_et_al_2013.pdf|Zhang et al 2013 (GRL)]] — GEV probability-index transform
+- [ ] Later / Advanced Reading
+	- [ ] [[Review_on_OFM_Chen_et_al_2022.pdf|OFM Review]] (statistical defence vs McKitrick 2021, FGLS link)
+	- [ ] [[Improved_OFM_2025.pdf|Improved OFM]] (estimating equations)
+	- [ ] [[New_Statistical_Approach_DA_Ribes_et_al_2017.pdf|Ribes et al 2017 (Clim Dyn)]] — model uncertainty in D&A, used in AR6
