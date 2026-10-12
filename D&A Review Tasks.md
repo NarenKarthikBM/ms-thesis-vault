@@ -1,0 +1,19 @@
+- [ ] Notes 📅 2026-10-13 
+	- [ ] D&A
+	- [ ] CMIP6
+	- [ ] DAMIP 
+	- [ ] RAMIP
+- [ ] [[Statistical_Analysis_in_Climate_Research.pdf|Statistical Analysis Book]] 📅 2026-10-14
+	- [ ] Section 7.4
+	- [ ] Section 2.8
+	- [ ] Section 8.4
+	- [ ] Section 13.1
+	- [ ] Section 13.2
+	- [ ] OFM and optimal filters from chapter 17
+	- [ ] Section 2.9
+- [ ] Statistical Methods Papers 📅 2026-10-14
+	- [ ] [[OFM_allen_tett_1999.pdf|OFM Foundational Papers (Allen,Tett 1999)]]
+	- [ ] [[Review_on_OFM_Chen_et_al_2022.pdf|OFM Review]]
+	- [ ] [[Estimating_Signal_Amplitudes_in_OFM_Allen_Stott_2003.pdf|OFM & TLS]]
+	- [ ] [[Improved_OFM_2025.pdf|Improved OFM]]
+	- [ ] [[ROF_Ribes_et_al_CLIMDYN_2013.pdf|ROF]]
