@@ -1,0 +1,404 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Huang, SZ
+   Wang, SQ
+   Wang, C
+   Zhang, X
+   Gong, JY
+   Chen, NC
+AF Huang, Shuzhe
+   Wang, Siqi
+   Wang, Chao
+   Zhang, Xiang
+   Gong, Jianya
+   Chen, Nengcheng
+TI Differential sensitivities of three types of compound drought and
+   heatwave events to human-induced climate change across the globe
+SO WEATHER AND CLIMATE EXTREMES
+AB Compound drought and heatwave (CDHW) events threaten ecosystems, water security, and human health through mutually reinforcing thermal and hydrological stress. Using CMIP6 multi-model simulations, we quantify influences of human-induced climate change on three CDHW types (i.e., precipitation-based (CMDH), runoff-based (CHDH), and soil-moisture-based (CSDH)) by isolating greenhouse gas, aerosol, and natural forcings (1960-2014). Greenhouse gas forcing emerges as the dominant driver of global CDHW intensification, with CSDH showing the strongest and most coherent amplification of CDHW frequency and severity. Aerosols partially offset warming-induced increases, particularly in monsoon regions. Interpretable machine learning reveals temperature as the primary driver, with precipitation and vapor pressure deficit playing event-dependent roles. Future projections (2015-2100) under high-emission pathways indicate significant severity growth (6.8 %, 9.4 %, and 15.4 % for CMDH, CHDH, and CSDH on average) and sharply rising population exposure (with slope of 0.22, 0.23, and 0.65 for CMDH, CHDH, and CSDH) concentrated in tropical and temperate regions. These findings highlight the urgency of aggressive mitigation and adaptation strategies that address the compound nature of climate extremes and the spatial heterogeneity of anthropogenic impacts.
+RI ; ZHANG, Xiang/H-3158-2013
+OI Chen, Nengcheng/0000-0002-3521-9972; 
+SN 2212-0947
+PD DEC
+PY 2025
+VL 50
+AR 100836
+DI 10.1016/j.wace.2025.100836
+EA NOV 2025
+UT WOS:001628205500001
+ER
+
+PT J
+AU Chen, YF
+   Zhang, SY
+   Wang, H
+   Chen, DL
+   Liu, JG
+AF Chen, Yufan
+   Zhang, Shuyu
+   Wang, Hong
+   Chen, Deliang
+   Liu, Junguo
+TI Human-Induced Climate Change Intensifies Extreme Precipitation Events in
+   Central China's Urban Areas
+SO GEOPHYSICAL RESEARCH LETTERS
+AB Understanding the drivers behind extreme precipitation is crucial for predicting and mitigating the impacts of climate change globally, yet it remains little known how anthropogenic factors contribute to these phenomena. This study investigates the impact of human-induced climate change on circulation patterns conducive to extreme precipitation over the Central Plains Urban Agglomeration in China, a region frequently experiencing severe flooding and home to a dense population with significant economic and agricultural activities. Using advanced techniques such as deep learning and optimal fingerprinting, this study identifies and analyzes the physical mechanisms behind the extreme precipitation. The findings reveal that greenhouse gas emissions play a pivotal role in altering atmospheric circulation patterns, specifically promoting the westward extension of western North Pacific subtropical high and northwestward shift of South Asian High, along with tropical cyclones. These changes enhance moisture transport and convective activity, leading to more frequent and intense precipitation events.
+RI Chen, Yufan/LJM-4556-2024; Chen, Deliang/A-5107-2013; Liu,
+   Junguo/B-3021-2012; wang, hong/MFH-5122-2025; zhang, shuyu/MFJ-0523-2025
+OI , Hong/0000-0003-4548-9252; Chen, Deliang/0000-0003-0288-5618; Liu,
+   Junguo/0000-0002-5745-6311; 
+SN 0094-8276
+EI 1944-8007
+PD JAN 3
+PY 2025
+VL 52
+IS 1
+AR e2024GL111818
+DI 10.1029/2024GL111818
+UT WOS:001388577400001
+ER
+
+PT J
+AU Devkota, KP
+   Devkota, M
+   Paudel, GP
+   McDonald, AJ
+AF Devkota, Krishna Prasad
+   Devkota, Mina
+   Paudel, Gokul Prasad
+   McDonald, Andrew James
+TI Coupling landscape-scale diagnostics surveys, on-farm experiments, and
+   simulation to identify entry points for sustainably closing rice yield
+   gaps in Nepal
+SO AGRICULTURAL SYSTEMS
+AB CONTEXT: Rice is the primary staple food crop in Nepal, contributing 20% of the agricultural gross domestic product and more than 50% of the total calories in the national diet. Nevertheless, the productivity of rice (3.36 t ha(-1)) is the lowest in South Asia region.
+   OBJECTIVE: The objective of this study was to employ a mixed-methods approach to characterize and decompose yield gaps (YGs) in the context of identifying sustainable intensification pathways for rice production in Nepal.
+   METHODS: Methodologies include: a) landscape-scale crop diagnostic survey on crop management, field attributes, and productivity outcomes combined with gridded soil and daily weather data to decompose rice yield gaps into constituent factors with machine learning diagnostics; b) with survey data, computation of key performance indicators to identify factors associated with productivity, profitability, and resource use efficiencies; c) complementary multi-location on-farm experiments (2011-2017) evaluating new agronomic management practices; and d) dynamic simulation (ORYZA3) to derive estimates of rice yield potential.
+   RESULTS AND CONCLUSIONS: Analysis of survey data suggests an exploitable YG of 2.57 t ha(-1) (40%) and the total YG of 4.85 t ha(-1) (55%) indicating substantial scope for increasing rice yields in Nepal. Frequency of irrigation, amount of late-season rainfall, soil type, amount of early-season rainfall, presence of water stress, soil pH, and nitrogen (N) and phosphorus (P) fertilizer rates are the principal determinants of productivity outcomes in descending ranked order. Efficiency metrics suggest rice farmers in the study region make good use of fertilizer inputs, but since application rates are very low (e.g. most farmers apply <20 kg P ha(-1)) unsustainable mining of soil nutrients is likely common. Farmers in the top 10% of the yield distribution had lower greenhouse gas emission intensities (-43%), increased water productivity (+66%), and higher use efficiencies of N and P fertilizers (+28% and + 20%, respectively), suggesting that yield intensification can be achieved without tradeoffs with key environmental performance indicators. On-farm experiments conducted over several seasons support insights from surveys by demonstrating that major gains in rice yield (1.86 t ha(-1)) and profitability (US$ 243 ha(-1)) are achievable through the adoption of good agronomic practices.
+   SIGNIFICANCE: Through a mixed methods approach, our results suggest that adoption of integrated 'good agronomic practices' can close YGs and improve food security outcomes associated with the rice-based agricultural systems of Nepal while simultaneously preserving or enhancing key sustainability and livelihood objectives.
+RI ; Paudel, Gokul/ITU-3353-2023
+OI Devkota, Krishna/0000-0002-2179-8395; Paudel, Gokul/0000-0002-5277-6287
+SN 0308-521X
+EI 1873-2267
+PD AUG
+PY 2021
+VL 192
+AR 103182
+DI 10.1016/j.agsy.2021.103182
+EA MAY 2021
+UT WOS:000691553600004
+ER
+
+PT J
+AU Jena, R
+AF Jena, Rabindra
+TI An empirical case study on Indian consumers' sentiment towards electric
+   vehicles: A big data analytics approach
+SO INDUSTRIAL MARKETING MANAGEMENT
+AB Today, climate change due to global warming is a significant concern to all of us. India's rate of greenhouse gas emissions is increasing day by day, placing India in the top ten emitters in the world. Air pollution is one of the significant contributors to the greenhouse effect. Transportation contributes about 10% of the air pollution in India. The Indian government is taking steps to reduce air pollution by encouraging the use of electric vehicles. But, success depends on consumer's sentiment, perception and understanding towards Electric Vehicles (EV). This case study tried to capture the feeling, attitude, and emotions of Indian consumers' towards electric vehicles. The main objective of this study was to extract opinions valuable to prospective buyers (to know what is best for them), marketers (for determining what features should be advertised) and manufacturers (for deciding what features should be improved) using Deep Learning techniques (e.g Doc2Vec Algorithm, Recurrent Neural Network (RNN), Convolutional Neural Network (CNN)). Due to the very nature of social media data, big data platform was chosen to analyze the sentiment towards EV. Deep Learning based techniques were preferred over traditional machine learning algorithms (Support Vector Machine, Logistic regression and Decision tree, etc.) due to its superior text mining capabilities. Two years data (2016 to 2018) were collected from different social media platform for this case study. The results showed the efficiency of deep learning algorithms and found CNN yield better results in-compare to others. The proposed optimal model will help consumers, designers and manufacturers in their decision-making capabilities to choose, design and manufacture EV.
+RI Jena, Rabindra/G-3051-2016
+SN 0019-8501
+EI 1873-2062
+PD OCT
+PY 2020
+VL 90
+BP 605
+EP 616
+DI 10.1016/j.indmarman.2019.12.012
+UT WOS:000579880200046
+ER
+
+PT J
+AU Abbasi, T
+   Abbasi, T
+   Luithui, C
+   Abbasi, SA
+AF Abbasi, Tabassum
+   Abbasi, Tasneem
+   Luithui, Chirchom
+   Abbasi, Shahid Abbas
+TI Modelling Methane and Nitrous Oxide Emissions from Rice Paddy Wetlands
+   in India Using Artificial Neural Networks (ANNs)
+SO WATER
+AB Paddy fields, which are shallow man-made wetlands, are estimated to be responsible for similar to 11% of the total methane emissions attributed to anthropogenic sources. The role of water use in driving these emissions, and the apportioning of the emissions to individual countries engaged in paddy cultivation, are aspects that have been mired in controversy and disagreement. This is largely due to the fact that methane (CH4) emissions not only change with the cultivar type but also regions, climate, soil type, soil conditions, manner of irrigation, type and quantity of fertilizer added-to name a few. The factors which can influence these aspects also encompass a wide range, and have origins in causes which can be physical, chemical, biological, and combinations of these. Exceedingly complex feedback mechanisms, exerting different magnitudes and types of influences on CH4 emissions under different conditions, are operative. Similar is the case of nitrous oxide (N2O); indeed, the present level of understanding of the factors which influence the quantum of its emission is still more patchy. This makes it difficult to even understand precisely the role of the myriad factors, less so model them. The challenge is made even more daunting by the fact that accurate and precise data on most of these aspects is lacking. This makes it nearly impossible to develop analytical models linking causes with effects vis a vis CH4 and N2O emissions from paddy fields. For situations like this the bioinspired artificial intelligence technique of artificial neural network (ANN), which can model a phenomenon on the basis of past data and without the explicit understanding of the mechanism phenomena, may prove useful. However, no such model for CH4 or N2O has been developed so far. Hence the present work was undertaken. It describes ANN-based models developed by us to predict CH4 and N2O emissions using soil characteristics, fertilizer inputs, and rice cultivar yield as inputs. Upon testing the predictive ability of the models with sets of data not used in model development, it was seen that there was excellent agreement between model forecasts and experimental findings, leading to correlations coefficients of 0.991 and 0.96, and root mean square error (RMSE) of 11.17 and 261.3, respectively, for CH4 and N2O emissions. Thus, the models can be used to estimate CH4 and N2O emissions from all those continuously flooded paddy wetlands for which data on total organic carbon, soil electrical conductivity, applied nitrogen, phosphorous and potassium, NPK, and grain yield is available.
+RI Luithui, Chirchom/HZH-4078-2023; Abbasi, Tabassum/Y-1697-2018
+OI Luithui, Chirchom/0009-0005-0824-2631; Abbasi,
+   Tabassum/0000-0003-1106-9479
+EI 2073-4441
+PD OCT
+PY 2019
+VL 11
+IS 10
+AR 2169
+DI 10.3390/w11102169
+UT WOS:000495598400213
+ER
+
+PT J
+AU Swaminathan, R
+   Quaife, T
+   Allan, R
+AF Swaminathan, Ranjini
+   Quaife, Tristan
+   Allan, Richard
+TI A Machine Learning Framework to Evaluate Vegetation Modeling in Earth
+   System Models
+SO JOURNAL OF ADVANCES IN MODELING EARTH SYSTEMS
+AB Vegetation gross primary productivity (GPP) is the single largest carbon flux of the terrestrial biosphere which, in turn, is responsible for sequestering 25%-30% of anthropogenic carbon dioxide emissions. The ability to model GPP is therefore critical for calculating carbon budgets as well as understanding climate feedbacks. Earth system models (ESMs) have the capability to simulate GPP but vary greatly in their individual estimates, resulting in large uncertainties. We describe a machine learning (ML) approach to investigate two key factors responsible for differences in simulated GPP quantities from ESMs: the relative importance of different atmospheric drivers and differences in the representation of land surface processes. We describe the different steps in the development of our interpretable ML framework including the choice of algorithms, parameter tuning, training and evaluation. Our results show that ESMs largely agree on the physical climate drivers responsible for GPP as seen in the literature, for instance drought variables in the Mediterranean region or radiation and temperature in the Arctic region. However differences do exist since models don't necessarily agree on which individual variable is most relevant for GPP. We also explore a distance measure to attribute GPP differences to climate influences versus process differences and provide examples for where our methods work (South Asia, Mediterranean) and where they are inconclusive (Eastern North America).
+   Gross primary productivity (GPP) is the rate at which plants remove carbon dioxide from the atmosphere during photosynthesis. Carbon dioxide is a greenhouse gas and excess in the atmosphere causes global warming and climate change. Changes in the amounts of atmospheric carbon dioxide will impact the entire Earth System. We therefore need the ability to accurately calculate GPP, especially for different possible carbon usage pathways in the future. Earth system models or ESMs allow us to simulate various processes happening in the earth's atmosphere and biosphere including photosynthesis and can help us estimate GPP changes for such different pathways. However, ESMs can vary significantly in their simulated GPP estimates making it difficult to have confidence in using these estimates. We describe a ML framework to better understand where ESMs differ in calculating GPP so that we can address knowledge gaps in models. This approach allows us to understand the processes involved without having to run computationally expensive simulations. With improved models, we can also improve our ability to predict climate change outcomes for the future.
+   A machine learning framework to advance our understanding of the terrestrial carbon cycle in earth system models or ESMs is proposed Differences in the relative importance of atmospheric drivers of gross primary productivity highlights differences across models A method to attribute differences in productivity estimates from ESMs due to process representation versus atmospheric forcing is demonstrated
+RI Allan, Richard/B-5782-2008; Swaminathan, Ranjini/PCR-9951-2025; Quaife,
+   Tristan/C-1355-2008
+OI Allan, Richard/0000-0003-0264-9447; Swaminathan,
+   Ranjini/0000-0001-5853-2673; Quaife, Tristan/0000-0001-6896-4613
+EI 1942-2466
+PD JUL 19
+PY 2024
+VL 16
+IS 7
+AR e2023MS004097
+DI 10.1029/2023MS004097
+UT WOS:001272194400001
+ER
+
+PT J
+AU Ghosh, S
+   Ashok, B
+   Agilandeeswari, L
+   Prabukumar, M
+   Rahaman, A
+   Mathur, A
+   Dubey, AS
+   Purohit, E
+   Gangadharan, V
+AF Ghosh, Satyajit
+   Ashok, B.
+   Agilandeeswari, L.
+   Prabukumar, M.
+   Rahaman, Ariful
+   Mathur, Abeer
+   Dubey, Abhinav Sudhakar
+   Purohit, Eishani
+   Gangadharan, Visakh
+TI Novel R-CNN and transformer models for pollution impacts and land cover
+   changes around iconic heritage sites in developing countries: a case
+   study
+SO SCIENTIFIC REPORTS
+AB Irreversible Land Use Land Cover changes around iconic heritage sites in south Asian countries, precipitated by an ever-increasing urban density build up, is a serious cause of concern. Some of the monuments are UNESCO world heritage sites and are currently under threat. Heavy vehicular traffic and unregulated encroachments over several south Asian cities, including Indian cities have led to particulate pollution build up around iconic heritage structures. This study shows that emissions from diesel engines operating around a network of roads around the 2000-year-old Meenakshi Amman Temple complex, emit soot and black carbon particles in the accumulation mode (0.2-0.5 mu m) which remain airborne for over a week and eventually soil and mar the beauty of the temple's iconic tower gates (Gopurams). Over this size range the scavenging efficiency from natural rain showers is similar to 20%. Efficient scavenging depends not only on the rain drop size distribution, but also on the collected aerosol particle size distribution. The region of Madurai remains largely dry for 9 months in a year and municipal authorities must look for the use of pressure calibrated sprinklers optimised with the drop-size distribution of the airborne particles. Quantifying particle size distribution requires the use of in situ scanning mobility particle sizer spectrometers-SMPS -which is prohibitively expensive for developing nations. Creating artificial rain showers is an even more expensive process and is resorted to only in dire situations. From an analysis of European data repositories and with the use of the state-of-the-art Weather Research and Forecasting (WRF) model we show (i) a progressive loss of vegetative cover (and hence a decrease in the leaf area index, LAI) (ii) decrease in precipitation (iii) decrease in soil moisture and (iv) an increase in fractions of non-precipitating clouds over the region over a time period of 1940-2050. It is therefore clear that any economically affordable engineered solution must involve smart roadside sprinklers yielding a fine spray mist which will be able to capture these particles through efficient collision and coalescence until non-polluting vehicles are used. It is shown that when vehicles are in an idling mode (as is very often the case) the median size is at its broadest and progressively decreases with increasing vehicular operating loads. This study proposes a quick AI mediated method to specify the range of Sauter Mean Radii (SMR) for varying vehicular operations, completely circumventing the use of SMPS and geoengineered artificial rain showers. The drop size distribution (DSD) range will help in the choice of sprinkler attributes-a sprinkler yielding an assortment of millimetre sized droplets should scavenge much of the soot particles with moderate spray durations of the order of a few hours. Mask Recurrent-Convolutional Neural Networks(R-CNN) modelling was used to ascertain particle SMR. Future predictions spanning the years 2020-2050 using the Stacked Transformer model show a progressive decrease in the LAI and soil moisture and an aggravated increase in heat stress during the Representation Concentration Pathway (RCP) 8.5 high emissions scenario. Simulations are contrasted for business-as-usual scenarios (using polluting vehicles), with scenarios using a phased-out transition to electric vehicles (EVs) and it was ascertained that if municipal agencies replace diesel vehicles with EVs, then the above indicators significantly improved.
+   These quick protocols can be used by government officials and other stakeholders to provide smart forecasts for Impact analyses (EIA) and cost savings assessments for calculating paybacks resulting from a partial transition to cleaner vehicular transport in the interim period. Estimates suggest benefits to the tune of millions of USD over a 5-year period vis-a-vis facade restoration ravaged by soot deposition.
+RI M, Prabukumar/P-9012-2016; RAHAMAN, ARIFUL/C-4441-2019; /P-8997-2016
+OI Mathur, Abeer/0009-0004-3129-0749
+SN 2045-2322
+PD DEC 8
+PY 2025
+VL 15
+IS 1
+AR 43134
+DI 10.1038/s41598-025-27155-x
+UT WOS:001631789100001
+ER
+
+PT J
+AU Venkanna, R
+   Nikhil, GN
+   Rao, TS
+   Sinha, PR
+   Swamy, YV
+AF Venkanna, R.
+   Nikhil, G. N.
+   Rao, T. Siva
+   Sinha, P. R.
+   Swamy, Y. V.
+TI Environmental monitoring of surface ozone and other trace gases over
+   different time scales: chemistry, transport and modeling
+SO INTERNATIONAL JOURNAL OF ENVIRONMENTAL SCIENCE AND TECHNOLOGY
+AB Increasing concentration of tropospheric ozone (O-3) is a serious air pollution problem faced commonly by the urban people. The present study emphasizes on variations of air pollutant concentrations viz., O-3, nitrogen oxides (NOx), carbon monoxide (CO), sulfur dioxide (SO2) and black carbon (BC) at a tropical urban site located in the Deccan plateau region with semi-arid climate. The air monitoring site revealed typical diurnal/seasonal trends attributing to the complex chemistry of surface O-3 formation from its precursors. Role of SO2 in the formation of free radical () and its impact on O-3 concentration is distinguished part of the study. The results showed the highest mean O-3 in summer (57.5 +/- A 15.2 ppbv) followed by winter and monsoon. Observations of BC aerosols showed the highest mean value during winter (8.2 +/- A 2 mu g m(-3)) and the lowest in monsoon (4.2 +/- A 1 mu g m(-3)). Besides local influences, long-range transport of air masses were also studied by simulating back trajectories at different elevations during the study period. Furthermore, statistical analysis and modeling was performed with both linear (regression) and nonlinear (neural network) methods.
+RI Siva Rao, Tirukkovalluri/AAX-3190-2021; Nikhil, Gauravarapu
+   Navlur/AAG-6996-2019
+OI Nikhil, Gauravarapu Navlur/0000-0002-4858-2439
+SN 1735-1472
+EI 1735-2630
+PD MAY
+PY 2015
+VL 12
+IS 5
+BP 1749
+EP 1758
+DI 10.1007/s13762-014-0537-8
+UT WOS:000351537800026
+ER
+
+PT J
+AU Chen, H
+   Schmidt, KS
+   Massie, ST
+   Nataraja, V
+   Norgren, MS
+   Gristey, JJ
+   Feingold, G
+   Holz, RE
+   Iwabuchi, H
+AF Chen, Hong
+   Schmidt, K. Sebastian
+   Massie, Steven T.
+   Nataraja, Vikas
+   Norgren, Matthew S.
+   Gristey, Jake J.
+   Feingold, Graham
+   Holz, Robert E.
+   Iwabuchi, Hironobu
+TI The Education and Research 3D Radiative Transfer Toolbox
+   (EaR3T) - towards the mitigation of 3D bias in airborne and
+   spaceborne passive imagery cloud retrievals
+SO ATMOSPHERIC MEASUREMENT TECHNIQUES
+AB We introduce the Education and Research 3D Radiative Transfer Toolbox (EaR(3)T, pronounced [3:t]) for quantifying and mitigating artifacts in atmospheric radiation science algorithms due to spatially inhomogeneous clouds and surfaces and show the benefits of automated, realistic radiance and irradiance generation along extended satellite orbits, flight tracks from entire aircraft field missions, and synthetic data generation from model data. EaR(3)T is a modularized Python package that provides high-level interfaces to automate the process of 3D radiative transfer (3D-RT) calculations. After introducing the package, we present initial findings from four applications, which are intended as blueprints to future in-depth scientific studies. The first two applications use EaR(3)T as a satellite radiance simulator for the NASA Orbiting Carbon Observatory 2 (OCO-2) and Moderate Resolution Imaging Spectroradiometer (MODIS) missions, which generate synthetic satellite observations with 3D-RT on the basis of cloud field properties from imagery-based retrievals and other input data. In the case of inhomogeneous cloud fields, we show that the synthetic radiances are often inconsistent with the original radiance measurements. This lack of radiance consistency points to biases in heritage imagery cloud retrievals due to sub-pixel resolution clouds and 3D-RT effects. They come to light because the simulator's 3D-RT engine replicates processes in nature that conventional 1D-RT retrievals do not capture. We argue that 3D radiance consistency (closure) can serve as a metric for assessing the performance of a cloud retrieval in presence of spatial cloud inhomogeneity even with limited independent validation data. The other two applications show how airborne measured irradiance data can be used to independently validate imagery-derived cloud products via radiative closure in irradiance. This is accomplished by simulating downwelling irradiance from geostationary cloud retrievals of Advanced Himawari Imager (AHI) along all the below-cloud aircraft flight tracks of the Cloud, Aerosol and Monsoon Processes Philippines Experiment (CAMP(2)Ex, NASA 2019) and comparing the irradiances with the colocated airborne measurements. In contrast to case studies in the past, EaR(3)T facilitates the use of observations from entire field campaigns for the statistical validation of satellite-derived irradiance. From the CAMP(2)Ex mission, we find a low bias of 10% in the satellite-derived cloud transmittance, which we are able to attribute to a combination of the coarse resolution of the geostationary imager and 3D-RT biases. Finally, we apply a recently developed context-aware Convolutional Neural Network (CNN) cloud retrieval framework to high-resolution airborne imagery from CAMP(2)Ex and show that the retrieved cloud optical thickness fields lead to better 3D radiance consistency than the heritage independent pixel algorithm, opening the door to future mitigation of 3D-RT cloud retrieval biases.
+RI SCHMIDT, KONRAD SEBASTIAN/C-1258-2013; Gristey, Jake Joseph/Q-8301-2018;
+   feingold, graham/B-6152-2009; Chen, Hong/ITV-3786-2023
+OI SCHMIDT, KONRAD SEBASTIAN/0000-0003-3899-228X; Nataraja,
+   Vikas/0000-0002-5532-9247; Gristey, Jake Joseph/0000-0003-1071-486X;
+   feingold, graham/0000-0002-0774-2926; Iwabuchi,
+   Hironobu/0000-0002-9311-8598; Chen, Hong/0000-0001-7427-2031
+SN 1867-1381
+EI 1867-8548
+PD APR 14
+PY 2023
+VL 16
+IS 7
+BP 1971
+EP 2000
+DI 10.5194/amt-16-1971-2023
+UT WOS:000971293700001
+ER
+
+PT J
+AU Hao, HF
+   Wang, KC
+   Zhao, CF
+   Wu, GC
+   Li, J
+AF Hao, Hongfei
+   Wang, Kaicun
+   Zhao, Chuanfeng
+   Wu, Guocan
+   Li, Jing
+TI Visibility-derived aerosol optical depth over global land from 1959 to
+   2021
+SO EARTH SYSTEM SCIENCE DATA
+AB Long-term and high spatial resolution aerosol optical depth (AOD) data are essential for climate change detection and attribution. Global ground-based AOD observations are sparsely distributed, and satellite AOD retrievals have a low temporal frequency as well low accuracy before 2000 over land. In this study, AOD at 550 nm is derived from visibility observations collected at more than 5000 meteorological stations over global land regions from 1959 to 2021. The AOD retrievals (550 nm) of the Moderate Resolution Imaging Spectroradiometer (MODIS) on board the Aqua Earth observation satellite are used to train the machine learning model, and the ERA5 reanalysis boundary layer height is used to convert the surface visibility to AOD. Comparisons with an independent dataset (AERONET ground-based observations) show that the predicted AOD has a correlation coefficient of 0.55 at the daily scale. The correlation coefficients are higher at monthly and annual scales, which are 0.61 and 0.65, respectively. The evaluation shows consistent predictive ability prior to 2000, with correlation coefficients of 0.54, 0.66, and 0.66 at the daily, monthly, and annual scales, respectively. Due to the small number and sparse visibility stations prior to 1980, the global and regional analysis in this study is from 1980 to 2021. From 1980 to 2021, the mean visibility-derived AOD values over global land areas, the Northern Hemisphere, and the Southern Hemisphere are 0.177, 0.178, and 0.175, with a trend of -0.0029 per 10 years, -0.0030 per 10 years, and -0.0021 per 10 years from 1980 to 2021. The regional means (trends) of AOD are 0.181 (-0.0096 per 10 years), 0.163 (-0.0026 per 10 years), 0.146 (-0.0017 per 10 years), 0.165 (-0.0027 per 10 years), 0.198 (-0.0075 per 10 years), 0.281 (-0.0062 per 10 years), 0.182 (-0.0016 per 10 years), 0.133 (-0.0028 per 10 years), 0.222 (0.0007 per 10 years), 0.244 (-0.0009 per 10 years), 0.241 (0.0130 per 10 years), and 0.254 (0.0119 per 10 years) in Eastern Europe, Western Europe, Western North America, Eastern North America, Central South America, Western Africa, Southern Africa, Australia, Southeast Asia, Northeast Asia, Eastern China, and India, respectively. However, the trends decrease significantly in Eastern China (-0.0572 per 10 years) and Northeast Asia (-0.0213 per 10 years) after 2014, with the larger increasing trend found after 2005 in India (0.0446 per 10 years). The visibility-derived daily AOD dataset at 5032 stations over global land from 1959 to 2021 is available from the National Tibetan Plateau/Third Pole Environment Data Center (10.11888/Atmos.tpdc.300822) (Hao et al., 2023).
+RI Wu, Guocan/AAF-9419-2021; Wang, Kaicun/F-7813-2012; Zhao,
+   Chuanfeng/IAO-1378-2023; Li, Jing/K-6290-2019
+OI Wu, Guocan/0000-0001-7979-6379; Wang, Kaicun/0000-0002-7414-5400; Zhao,
+   Chuanfeng/0000-0002-5196-3996; Li, Jing/0000-0002-0540-0412; Hao,
+   Hongfei/0009-0002-0442-5922
+SN 1866-3508
+EI 1866-3516
+PD JUL 12
+PY 2024
+VL 16
+IS 7
+BP 3233
+EP 3260
+DI 10.5194/essd-16-3233-2024
+UT WOS:001271322100001
+ER
+
+PT J
+AU Kumar, RP
+   Choudhary, A
+AF Kumar, Ram Pravesh
+   Choudhary, Arti
+TI Spatiotemporal dynamics of air pollutants and human health burden in
+   Bihar, India: A multi-source assessment for effective air quality
+   management
+SO PHYSICS AND CHEMISTRY OF THE EARTH
+AB This study presents an integrated assessment of ambient air pollution, meteorological influences, and health risk implications in Bihar, India, from 2021 to 2024 using ground monitoring, geospatial modeling, and machine learning tools. The key pollutants analyzed include PM2.5, NO2, and O3, together with AOD data obtained from MODIS. The findings reveal alarming air quality deterioration, particularly during winter and post-monsoon seasons, driven by biomass burning, vehicular emissions, and meteorological stagnation. PM2.5 consistently emerged as the most hazardous pollutant, with annual average concentrations exceeding WHO guidelines throughout all four years. The highest annual mean was observed in 2022 (91.3 mu g/m3), corresponding to the highest average AQI (162) and PM2.5 sub-index reaching at 165. Health burden assessments indicated that the Attributable Fraction (AF) due to PM2.5 exposure varied between 5.43 % in 2024 and 9.62 % in 2022, corresponding to an estimated 39553 and 70106 Premature Deaths (PD), respectively. Spatial analysis identified pollution hotspots in Patna, Muzaffarpur, Gaya, and Bhagalpur. Seasonal bivariate polar plots and HYSPLIT trajectory models confirmed the regional emission, role of transboundary transport and regional wind patterns, which significantly influenced the air quality. A positive correlation was found between PM2.5 and AOD (r = 0.43), while NO2 and O3 exhibited inverse seasonal patterns. Despite improvements in 2024, significant health risks remain, highlighting the need for region-specific, data-driven mitigation strategies. These results offer critical insights for evidence-based air quality management and highlight the urgent need for spatiotemporally resolved policy responses under the National Clean Air Programme (NCAP) and SDG 11.
+RI Kumar, Dr. Ram Pravesh/JCE-2078-2023; Choudhary, Arti/AEG-4836-2022
+SN 1474-7065
+EI 1873-5193
+PD OCT
+PY 2025
+VL 140
+AR 104047
+DI 10.1016/j.pce.2025.104047
+EA AUG 2025
+UT WOS:001581930100001
+ER
+
+PT J
+AU Rahaman, S
+   Cai, DM
+   Chen, RS
+   Cheng, YH
+   Wei, X
+   Gong, XD
+AF Rahaman, Saidur
+   Cai, Dongmei
+   Chen, Ruishan
+   Cheng, Yuhan
+   Wei, Xing
+   Gong, Xianda
+TI Review of the impact of air pollution in Asian countries to support SDG
+   target 3.9.1 toward renewable and sustainable energy growth
+SO RENEWABLE & SUSTAINABLE ENERGY REVIEWS
+AB Air pollution poses a critical challenge to public health and environmental sustainability in South and East Asia, where rapid urbanization and industrial expansion have significantly contributed to atmospheric degradation. This study examines the spatiotemporal distribution, emission sources, and impacts of air pollution across 119 urban regions in six Asian countries: Bangladesh, Bhutan, China, India, Nepal, and Pakistan covering the period from 2012 to 2024. This research reviews existing policies, identifies major emission sources, and highlights persistent challenges along with country-specific mitigation strategies. Comparative trend analysis shows that significant reductions in pollutant levels across Chinese cities are the result of stringent emission control measures, while other countries continue to experience declines in air quality. Source attribution analysis, based on air pollutants and total GHG emissions including CO, NOx, PM2.5, SO2, CH4, CO2, F-gases, and N2O, identifies the energy and industrial sectors as dominant contributors in China and India, whereas agriculture remains a key emitter in Pakistan, Nepal, and Bhutan. The study further evaluates the public health burden linked to PM2.5 exposure, revealing severe mortality risks in South and East Asia, especially among children and the elderly, from both ambient and household air pollution. This study aims to evaluate the impact of air pollution in one of the most polluted regions of the world through an integrated assessment that supports SDG Target 3.9.1 and proposes a framework for sustainable air quality governance in rapidly developing Asian economies. This study establishes a crucial foundation for renewable and sustainable air quality management across South and East Asia, with future directions including the integration of ground-based observations, machine learning predictions, and detailed evaluations of localized policy frameworks. The findings underscore the urgent need for region-specific, multi-sectoral mitigation strategies to reduce emissions and health burdens, thereby advancing sustainable air quality management aligned with SDG Target 3.9.1.
+RI ; Gong, Xianda/O-1650-2014
+OI Cai, Dongmei/0000-0003-1167-6498; Rahaman, Saidur/0000-0002-1593-272X;
+   Gong, Xianda/0000-0001-7274-0639; Cheng, Yuhan/0009-0004-3566-6563;
+   chen, ruishan/0000-0002-7221-8784
+SN 1364-0321
+EI 1879-0690
+PD JAN
+PY 2026
+VL 226
+AR 116276
+DI 10.1016/j.rser.2025.116276
+EA SEP 2025
+PN B
+UT WOS:001574095600001
+ER
+
+PT J
+AU Bai, KX
+   Li, K
+   Qiu, SY
+   Zheng, Z
+   Jiao, PL
+   Sun, YB
+   Shao, LQ
+   Liu, CS
+   Li, XR
+   Li, ZQ
+   Guo, JP
+   Chang, NB
+AF Bai, Kaixu
+   Li, Ke
+   Qiu, Songyun
+   Zheng, Zhe
+   Jiao, Penglong
+   Sun, Yibing
+   Shao, Liuqing
+   Liu, Chaoshun
+   Li, Xinran
+   Li, Zhengqiang
+   Guo, Jianping
+   Chang, Ni-Bin
+TI SCAGAT: A scene-aware ensemble graph attention network for global
+   PM2.5 pollution mapping via land-atmosphere interactions
+SO ISPRS JOURNAL OF PHOTOGRAMMETRY AND REMOTE SENSING
+AB The sparse and uneven distribution of ground-based air quality monitoring stations poses significant challenges for large scale PM2.5 pollution mapping. Spatially heterogenous land-atmosphere interactions often lead to large uncertainties in satellite-based PM2.5 estimations from global modeling strategies. To enhance global PM2.5 mapping accuracy, particularly in poorly monitored regions, we propose a novel ensemble learning framework called the SCene-Aware ensemble Graph ATtention network (SCAGAT), which integrates locally trained PM2.5 prediction models across regions using a graph attention network and transfer learning concept. Unlike popular global modeling strategy, SCAGAT first constructs thousands of site-specific PM2.5 estimation models at individual monitoring station using the random forest (RF) method. For each target grid, raw PM2.5 estimates are predicted by the 32 site-specific RF models with the most similar geographic scene attributes, characterized by nine variables relevant to haze pollution levels, land cover, and climate characteristic. A graph attention network then aggregates these initial estimates to produce an optimal PM2.5 prediction through ensemble learning. By taking advantage of the strength of SCAGAT, global daily gap-free PM2.5 concentrations over land from 2000 to 2021 were finally mapped based on a long-term gap-filled aerosol optical depth dataset. Cross-validation shows that SCAGAT achieves high global PM2.5 modeling accuracy, with a correlation coefficient of 0.909 and a root-mean-squared error of 9.87 mu g m(-3). Intercomparison results demonstrate SCAGAT's superiority over other widely used global modeling methods, reducing PM2.5 modeling bias by 44.2 %, 12.7 %, 32.4 %, 44.4 %, and 48.3 % in China, the USA, Europe, India, and a global product, respectively. Overall, SCAGAT provides a robust solution for large-scale air quality mapping and effectively resolves data imbalance related low accuracy in poorly monitored areas by accounting for geographic scene similarity. Furthermore, this method can be readily adapted to other data-driven Earth observing applications facing similar challenges.
+RI Guo, Jianping/K-1497-2017; Li, Ke/JFA-8287-2023; Li,
+   Zhengqiang/C-5678-2013; Xinran, Li/K-7464-2018
+SN 0924-2716
+EI 1872-8235
+PD JUL
+PY 2025
+VL 225
+BP 19
+EP 35
+DI 10.1016/j.isprsjprs.2025.04.019
+EA APR 2025
+UT WOS:001480504100001
+ER
+
+EF

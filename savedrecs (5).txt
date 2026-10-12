@@ -1,0 +1,2608 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Monerie, PA
+   Wilcox, LJ
+   Turner, AG
+AF Monerie, Paul-Arthur
+   Wilcox, Laura J.
+   Turner, Andrew G.
+TI Effects of Anthropogenic Aerosol and Greenhouse Gas Emissions on
+   Northern Hemisphere Monsoon Precipitation: Mechanisms and Uncertainty
+SO JOURNAL OF CLIMATE
+RI Wilcox, Laura/F-3394-2013; Monerie, Paul-Arthur/G-6121-2016; Turner,
+   Andrew/D-2286-2009
+OI Monerie, Paul-Arthur/0000-0002-5304-9559; 
+SN 0894-8755
+EI 1520-0442
+PD APR
+PY 2022
+VL 35
+IS 8
+BP 2305
+EP 2326
+DI 10.1175/JCLI-D-21-0412.1
+UT WOS:000808524500001
+ER
+
+PT J
+AU Dong, TY
+   Zhu, X
+   Deng, R
+   Ma, YL
+   Dong, WJ
+AF Dong, Tianyun
+   Zhu, Xian
+   Deng, Rong
+   Ma, Yiling
+   Dong, Wenjie
+TI Detection and attribution of extreme precipitation events over the Asian
+   monsoon region
+SO WEATHER AND CLIMATE EXTREMES
+RI Dong, Wenjie/F-4314-2012
+OI Dong, Wenjie/0000-0002-9635-6292
+SN 2212-0947
+PD DEC
+PY 2022
+VL 38
+AR 100497
+DI 10.1016/j.wace.2022.100497
+EA SEP 2022
+UT WOS:000859044700001
+ER
+
+PT J
+AU Recchia, LG
+   Lucarini, V
+AF Recchia, Lucy G.
+   Lucarini, Valerio
+TI Modelling the effect of aerosol and greenhouse gas forcing on the South
+   Asian and East Asian monsoons with an intermediate-complexity climate
+   model
+SO EARTH SYSTEM DYNAMICS
+RI Lucarini, Valerio/L-9206-2019
+OI Lucarini, Valerio/0000-0001-9392-1471
+SN 2190-4979
+EI 2190-4987
+PD JUN 30
+PY 2023
+VL 14
+IS 3
+BP 697
+EP 722
+DI 10.5194/esd-14-697-2023
+UT WOS:001079364400001
+ER
+
+PT J
+AU Lau, WKM
+   Kim, KM
+   Leung, LR
+AF Lau, William K. M.
+   Kim, Kyu-Myong
+   Leung, L. Ruby
+TI Changing circulation structure and precipitation characteristics in
+   Asian monsoon regions: greenhouse warming vs. aerosol effects
+SO GEOSCIENCE LETTERS
+RI /G-5398-2014; Lau, William/E-1510-2012; Leung, Ruby/F-9276-2018
+OI Leung, Ruby/0000-0002-3221-9467
+SN 2196-4092
+PD NOV 28
+PY 2017
+VL 4
+AR 28
+DI 10.1186/s40562-017-0094-3
+UT WOS:000445940700001
+ER
+
+PT J
+AU Zhang, YT
+   Wu, RG
+   Zheng, XT
+   Wang, YW
+   Cheng, SJ
+   Wang, SY
+AF Zhang, Yanting
+   Wu, Renguang
+   Zheng, Xiaotong
+   Wang, Yuwei
+   Cheng, Shanjun
+   Wang, Shiyao
+TI Anthropogenic Impacts on Asian Drought Trends: Distinct Effects of
+   Greenhouse Gases and Aerosols
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+RI ; Zheng, Xiao-Tong/H-4231-2012
+OI Cheng, Shanjun/0000-0003-4361-4208; Zheng, Xiao-Tong/0000-0001-6335-1383
+SN 2169-897X
+EI 2169-8996
+PD JUN 17
+PY 2025
+VL 130
+IS 12
+AR e2025JD043887
+DI 10.1029/2025JD043887
+UT WOS:001510034700001
+ER
+
+PT J
+AU Ayantika, DC
+   Krishnan, R
+   Singh, M
+   Swapna, P
+   Sandeep, N
+   Prajeesh, AG
+   Vellore, R
+AF Ayantika, D. C.
+   Krishnan, R.
+   Singh, M.
+   Swapna, P.
+   Sandeep, N.
+   Prajeesh, A. G.
+   Vellore, R.
+TI Understanding the combined effects of global warming and anthropogenic
+   aerosol forcing on the South Asian monsoon
+SO CLIMATE DYNAMICS
+RI Singh, Manmeet/GRY-0132-2022; Ayantika, D./ABH-3074-2020
+OI Singh, Manmeet/0000-0002-3374-7149; 
+SN 0930-7575
+EI 1432-0894
+PD MAR
+PY 2021
+VL 56
+IS 5-6
+BP 1643
+EP 1662
+DI 10.1007/s00382-020-05551-5
+EA JAN 2021
+UT WOS:000604528700004
+ER
+
+PT J
+AU Wilcox, LJ
+   Liu, Z
+   Samset, BH
+   Hawkins, E
+   Lund, MT
+   Nordling, K
+   Undorf, S
+   Bollasina, M
+   Ekman, AML
+   Krishnan, S
+   Merikanto, J
+   Turner, AG
+AF Wilcox, Laura J.
+   Liu, Zhen
+   Samset, Bjorn H.
+   Hawkins, Ed
+   Lund, Marianne T.
+   Nordling, Kalle
+   Undorf, Sabine
+   Bollasina, Massimo
+   Ekman, Annica M. L.
+   Krishnan, Srinath
+   Merikanto, Joonas
+   Turner, Andrew G.
+TI Accelerated increases in global and Asian summer monsoon precipitation
+   from future aerosol reductions
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Ekman, Annica/D-7004-2017; Hawkins, Ed/B-7921-2011; Wilcox,
+   Laura/F-3394-2013; Samset, Bjørn H/H-6828-2016; Lund, Marianne
+   Tronstad/J-6465-2016; Merikanto, Joonas/B-1039-2008; Liu,
+   Zhen/AAV-8723-2021; Nordling, Kalle/JXX-0658-2024; Turner,
+   Andrew/D-2286-2009; Undorf, Sabine/AAA-5687-2022
+OI Ekman, Annica/0000-0002-5940-2114; Hawkins, Ed/0000-0001-9477-3677;
+   Wilcox, Laura/0000-0001-5691-1493; Samset, Bjørn H/0000-0001-8013-1833;
+   Lund, Marianne Tronstad/0000-0001-9911-4160; Merikanto,
+   Joonas/0000-0002-1145-2569; Liu, Zhen/0000-0001-9197-0229; Undorf,
+   Sabine/0000-0001-7026-080X; Bollasina, Massimo/0000-0001-7509-7650;
+   Krishnan, Srinath/0000-0002-6852-1924; Nordling,
+   Kalle/0000-0003-1824-9659; 
+SN 1680-7316
+EI 1680-7324
+PD OCT 26
+PY 2020
+VL 20
+IS 20
+BP 11955
+EP 11977
+DI 10.5194/acp-20-11955-2020
+UT WOS:000582384600001
+ER
+
+PT J
+AU Liu, Z
+   Bollasina, MA
+   Wilcox, LJ
+AF Liu, Zhen
+   Bollasina, Massimo A.
+   Wilcox, Laura J.
+TI Impact of Asian aerosols on the summer monsoon strongly modulated by
+   regional precipitation biases
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Liu, Zhen/AAV-8723-2021; Wilcox, Laura/F-3394-2013
+OI Liu, Zhen/0000-0001-9197-0229; Wilcox, Laura/0000-0001-5691-1493;
+   Bollasina, Massimo/0000-0001-7509-7650
+SN 1680-7316
+EI 1680-7324
+PD JUN 25
+PY 2024
+VL 24
+IS 12
+BP 7227
+EP 7252
+DI 10.5194/acp-24-7227-2024
+UT WOS:001253115500001
+ER
+
+PT J
+AU Westervelt, DM
+   You, YJ
+   Li, XQ
+   Ting, MF
+   Lee, DE
+   Ming, Y
+AF Westervelt, Daniel M.
+   You, Yujia
+   Li, Xiaoqiong
+   Ting, Mingfang
+   Lee, Dong Eun
+   Ming, Yi
+TI Relative Importance of Greenhouse Gases, Sulfate, Organic Carbon, and
+   Black Carbon Aerosol for South Asian Monsoon Rainfall Changes
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Ming, Yi/F-3023-2012; You, Yujia/HLP-4215-2023; Lee, dong
+   eun/LRU-1718-2024
+OI Ming, Yi/0000-0002-5324-1305; Lee, dong eun/0000-0001-8546-563X; Ting,
+   Mingfang/0000-0002-4302-4614; Westervelt, Daniel/0000-0003-0806-9961
+SN 0094-8276
+EI 1944-8007
+PD JUL 16
+PY 2020
+VL 47
+IS 13
+AR e2020GL088363
+DI 10.1029/2020GL088363
+UT WOS:000551465400051
+ER
+
+PT J
+AU Samset, BH
+   Wilcox, LJ
+   Allen, RJ
+   Stjern, CW
+   Lund, MT
+   Ahmadi, S
+   Ekman, A
+   Elling, MT
+   Fraser-Leach, L
+   Griffiths, P
+   Keeble, J
+   Koshiro, T
+   Kushner, P
+   Lewinschal, A
+   Makkonen, R
+   Merikanto, J
+   Nabat, P
+   Narazenko, L
+   O'Donnell, D
+   Oshima, N
+   Rumbold, ST
+   Takemura, T
+   Tsigaridis, K
+   Westervelt, DM
+AF Samset, Bjorn H.
+   Wilcox, Laura J.
+   Allen, Robert J.
+   Stjern, Camilla W.
+   Lund, Marianne T.
+   Ahmadi, Sharar
+   Ekman, Annica
+   Elling, Maxwell T.
+   Fraser-Leach, Luke
+   Griffiths, Paul
+   Keeble, James
+   Koshiro, Tsuyoshi
+   Kushner, Paul
+   Lewinschal, Anna
+   Makkonen, Risto
+   Merikanto, Joonas
+   Nabat, Pierre
+   Narazenko, Larissa
+   O'Donnell, Declan
+   Oshima, Naga
+   Rumbold, Steven T.
+   Takemura, Toshihiko
+   Tsigaridis, Kostas
+   Westervelt, Daniel M.
+TI East Asian aerosol cleanup has likely contributed to the recent
+   acceleration in global warming
+SO COMMUNICATIONS EARTH & ENVIRONMENT
+RI Makkonen, Risto/F-3059-2015; Tsigaridis, Kostas/K-8292-2012; Lund,
+   Marianne Tronstad/J-6465-2016; Merikanto, Joonas/B-1039-2008; Koshiro,
+   Tsuyoshi/AGL-8595-2022; Oshima, Naga/E-4708-2012; /ABA-6904-2020;
+   Griffiths, Paul/E-8592-2010; Wilcox, Laura/F-3394-2013; Takemura,
+   Toshihiko/C-2822-2009; Kushner, Paul/H-6716-2016; Ekman,
+   Annica/D-7004-2017; Samset, Bjørn H/H-6828-2016
+OI Fraser-Leach, Luke/0009-0003-9452-5528; Lund, Marianne
+   Tronstad/0000-0001-9911-4160; Merikanto, Joonas/0000-0002-1145-2569;
+   Allen, Robert/0000-0003-1616-9719; Koshiro,
+   Tsuyoshi/0000-0003-2971-7446; Ahmadi, Sharar/0000-0002-2754-4820;
+   Elling, Maxwell/0000-0001-6091-809X; Griffiths,
+   Paul/0000-0002-1089-340X; Wilcox, Laura/0000-0001-5691-1493; Westervelt,
+   Daniel/0000-0003-0806-9961; Keeble, James/0000-0003-2714-1084; Samset,
+   Bjørn H/0000-0001-8013-1833
+EI 2662-4435
+PD JUL 14
+PY 2025
+VL 6
+IS 1
+AR 543
+DI 10.1038/s43247-025-02527-3
+UT WOS:001528588200001
+ER
+
+PT J
+AU Xiang, BQ
+   Xie, SP
+   Kang, SM
+   Kramer, RJ
+AF Xiang, Baoqiang
+   Xie, Shang-Ping
+   Kang, Sarah M.
+   Kramer, Ryan J.
+TI An emerging Asian aerosol dipole pattern reshapes the Asian summer
+   monsoon and exacerbates northern hemisphere warming
+SO NPJ CLIMATE AND ATMOSPHERIC SCIENCE
+RI , Sarah/CAA-3536-2022; Xie, Shang-Ping/C-1254-2009; Xiang,
+   Baoqiang/O-1890-2019
+OI Kramer, Ryan/0000-0002-9377-0674; Xie, Shang-Ping/0000-0002-3676-1325; 
+SN 2397-3722
+PD JUN 30
+PY 2023
+VL 6
+IS 1
+AR 77
+DI 10.1038/s41612-023-00400-8
+UT WOS:001020885800001
+ER
+
+PT J
+AU Zhu, XW
+   Kong, ZY
+   Cao, J
+   Gao, RN
+   Gao, N
+AF Zhu, Xiaowei
+   Kong, Zhiyong
+   Cao, Jian
+   Gao, Ruina
+   Gao, Na
+TI Attributing the Decline of Evapotranspiration over the Asian Monsoon
+   Region during the Period 1950-2014 in CMIP6 Models
+SO REMOTE SENSING
+RI Gao, Naying/JWP-4253-2024
+OI Kong, Zhiyong/0009-0003-5123-4579
+EI 2072-4292
+PD JUN
+PY 2024
+VL 16
+IS 11
+AR 2027
+DI 10.3390/rs16112027
+UT WOS:001245607500001
+ER
+
+PT J
+AU Zhao, M
+   Xie, YK
+   Shi, JS
+   Bao, ZR
+   Mi, JQ
+   Su, ZF
+AF Zhao, Min
+   Xie, Yongkun
+   Shi, Jinsen
+   Bao, Zhongrui
+   Mi, Jiaqin
+   Su, Zifan
+TI Reversed Future Drying-Wetting Precipitation Patterns Over the
+   Northwestern and Southeastern East Asia Driven by Reduced Aerosol
+   Emissions
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Mi, Jiaqin/GXZ-5003-2022; Xie, Yongkun/B-1774-2013
+OI Mi, Jiaqin/0009-0005-0066-336X; Xie, Yongkun/0000-0001-8836-9328
+SN 0094-8276
+EI 1944-8007
+PD AUG 29
+PY 2025
+VL 52
+IS 17
+AR e2024GL114527
+DI 10.1029/2024GL114527
+UT WOS:001563286700001
+ER
+
+PT J
+AU Zhao, A
+   Wilcox, LJ
+   Ryder, CL
+AF Zhao, Alcide
+   Wilcox, Laura J.
+   Ryder, Claire L.
+TI The key role of atmospheric absorption in the Asian summer monsoon
+   response to dust emissions in CMIP6 models
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Ryder, Claire/K-5969-2014; /ABF-8937-2020; Wilcox, Laura/F-3394-2013
+OI Wilcox, Laura/0000-0001-5691-1493
+SN 1680-7316
+EI 1680-7324
+PD DEC 5
+PY 2024
+VL 24
+IS 23
+BP 13385
+EP 13402
+DI 10.5194/acp-24-13385-2024
+UT WOS:001370092100001
+ER
+
+PT J
+AU Zhao, AD
+   Stevenson, DS
+   Bollasina, MA
+AF Zhao, Alcide D.
+   Stevenson, David S.
+   Bollasina, Massimo A.
+TI The role of anthropogenic aerosols in future precipitation extremes over
+   the Asian Monsoon Region
+SO CLIMATE DYNAMICS
+RI Zhao, Alcide/ABF-8937-2020; Stevenson, David/C-8089-2012
+OI Zhao, Alcide/0000-0002-8300-5872; Bollasina,
+   Massimo/0000-0001-7509-7650; 
+SN 0930-7575
+EI 1432-0894
+PD MAY
+PY 2019
+VL 52
+IS 9-10
+BP 6257
+EP 6278
+DI 10.1007/s00382-018-4514-7
+UT WOS:000465441400068
+ER
+
+PT J
+AU Lu, HY
+   Yi, SW
+   Liu, ZY
+   Mason, JA
+   Jiang, DB
+   Cheng, J
+   Stevens, T
+   Xu, ZW
+   Zhang, EL
+   Jin, LY
+   Zhang, ZH
+   Guo, ZT
+   Wang, Y
+   Otto-Bliesner, B
+AF Lu, Huayu
+   Yi, Shuangwen
+   Liu, Zhengyu
+   Mason, Joseph A.
+   Jiang, Dabang
+   Cheng, Jun
+   Stevens, Thomas
+   Xu, Zhiwei
+   Zhang, Enlou
+   Jin, Liya
+   Zhang, Zhaohui
+   Guo, Zhengtang
+   Wang, Yi
+   Otto-Bliesner, Bette
+TI Variation of East Asian monsoon precipitation during the past 21 k.y.
+   and potential CO2 forcing
+SO GEOLOGY
+RI Jiang, Dabang/I-2243-2014; Guo, Zhengtang/B-6854-2008; Wang,
+   Yi/F-2689-2011; Cheng, Jun/G-4625-2013; Xu, Zhiwei/D-1775-2016; Lu,
+   Huayu/NKQ-1462-2025; Otto-Bliesner, Bette/AAY-7691-2020
+OI Guo, Zhengtang/0000-0003-2259-9715; Mason, Joseph/0000-0003-2287-8247;
+   Wang, Yi/0000-0002-3984-3879; Cheng, Jun/0000-0003-0168-1410; Xu,
+   Zhiwei/0000-0002-8630-1204; Zhang, Enlou/0000-0002-8057-7760; Lu,
+   Huayu/0000-0002-6306-6985; Stevens, Thomas/0000-0002-6662-6650; Zhang,
+   Zhaohui/0000-0001-6316-326X
+SN 0091-7613
+EI 1943-2682
+PD SEP
+PY 2013
+VL 41
+IS 9
+BP 1023
+EP 1026
+DI 10.1130/G34488.1
+UT WOS:000323277300028
+ER
+
+PT J
+AU Rahimi, S
+   Liu, XH
+   Wu, CL
+   Lau, WK
+   Brown, H
+   Wu, MX
+   Qian, Y
+AF Rahimi, Stefan
+   Liu, Xiaohong
+   Wu, Chenglai
+   Lau, William K.
+   Brown, Hunter
+   Wu, Mingxuan
+   Qian, Yun
+TI Quantifying snow darkening and atmospheric radiative effects of black
+   carbon and dust on the South Asian monsoon and hydrological cycle:
+   experiments using variable-resolution CESM
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Wu, Mingxuan/IXN-5460-2023; , Chenglai/AAJ-8147-2020; Brown,
+   Hunter/KHD-1034-2024; Lau, William/E-1510-2012; Liu,
+   Xiaohong/E-9304-2011; qian, yun/E-1845-2011
+OI Wu, Mingxuan/0000-0003-2970-1102; , Chenglai/0000-0002-8397-2424;
+   Rahimi, Stefan/0000-0003-3188-4462
+SN 1680-7316
+EI 1680-7324
+PD SEP 26
+PY 2019
+VL 19
+IS 18
+BP 12025
+EP 12049
+DI 10.5194/acp-19-12025-2019
+UT WOS:000488023500003
+ER
+
+PT J
+AU Tian, FX
+   Dong, BW
+   Robson, J
+   Sutton, R
+AF Tian, Fangxing
+   Dong, Buwen
+   Robson, Jon
+   Sutton, Rowan
+TI Forced decadal changes in the East Asian summer monsoon: the roles of
+   greenhouse gases and anthropogenic aerosols
+SO CLIMATE DYNAMICS
+RI ; Tian, Fangxing/ABF-3067-2021; Robson, Jon/A-7677-2012
+OI Sutton, Rowan/0000-0001-8345-8583; Tian, Fangxing/0000-0002-6747-1769;
+   Robson, Jon/0000-0002-3467-018X
+SN 0930-7575
+EI 1432-0894
+PD NOV
+PY 2018
+VL 51
+IS 9-10
+BP 3699
+EP 3715
+DI 10.1007/s00382-018-4105-7
+UT WOS:000447366100030
+ER
+
+PT J
+AU Li, T
+   Wang, YH
+   Wang, B
+   Ting, MF
+   Ding, YH
+   Sun, Y
+   He, C
+   Yang, G
+AF Li, Tim
+   Wang, Yuhao
+   Wang, Bin
+   Ting, Mingfang
+   Ding, Yihui
+   Sun, Ying
+   He, Chao
+   Yang, Guang
+TI Distinctive South and East Asian monsoon circulation responses to global
+   warming
+SO SCIENCE BULLETIN
+RI Y, G/OEN-8599-2025; Wang, Bin/ABZ-9828-2022; Wang, Yuhao/AAU-8503-2021;
+   He, Chao/T-3634-2019
+OI He, Chao/0000-0001-5842-9617
+SN 2095-9273
+EI 2095-9281
+PD APR 15
+PY 2022
+VL 67
+IS 7
+BP 762
+EP 770
+DI 10.1016/j.scib.2021.12.001
+EA APR 2022
+UT WOS:000809966000001
+PM 36546141
+ER
+
+PT J
+AU Xin, XG
+   Wu, TW
+   Zhang, J
+   Yao, JC
+   Fang, YJ
+AF Xin, Xiaoge
+   Wu, Tongwen
+   Zhang, Jie
+   Yao, Junchen
+   Fang, Yongjie
+TI Comparison of CMIP6 and CMIP5 simulations of precipitation in China and
+   the East Asian summer monsoon
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+OI Wu, Tongwen/0000-0001-5187-9121; Xin, Xiaoge/0000-0001-9712-5368
+SN 0899-8418
+EI 1097-0088
+PD DEC
+PY 2020
+VL 40
+IS 15
+BP 6423
+EP 6440
+DI 10.1002/joc.6590
+EA APR 2020
+UT WOS:000528774300001
+ER
+
+PT J
+AU Lau, WKM
+   Kim, KM
+AF Lau, William Ka-Ming
+   Kim, Kyu-Myong
+TI Competing influences of greenhouse warming and aerosols on Asian summer
+   monsoon circulation and rainfall
+SO ASIA-PACIFIC JOURNAL OF ATMOSPHERIC SCIENCES
+RI Lau, William/E-1510-2012; /G-5398-2014
+SN 1976-7633
+EI 1976-7951
+PD MAY
+PY 2017
+VL 53
+IS 2
+BP 181
+EP 194
+DI 10.1007/s13143-017-0033-4
+UT WOS:000402453400002
+ER
+
+PT J
+AU Wang, H
+   Xie, SP
+   Kosaka, Y
+   Liu, QY
+   Du, Y
+AF Wang, Hai
+   Xie, Shang-Ping
+   Kosaka, Yu
+   Liu, Qinyu
+   Du, Yan
+TI Dynamics of Asian Summer Monsoon Response to Anthropogenic Aerosol
+   Forcing
+SO JOURNAL OF CLIMATE
+RI Xie, Shang-Ping/C-1254-2009; Kosaka, Yu/C-2792-2009; DU, Yan/C-4496-2013
+OI Xie, Shang-Ping/0000-0002-3676-1325; Kosaka, Yu/0000-0001-5575-4668; DU,
+   Yan/0000-0002-7842-0801
+SN 0894-8755
+EI 1520-0442
+PD FEB
+PY 2019
+VL 32
+IS 3
+BP 843
+EP 858
+DI 10.1175/JCLI-D-18-0386.1
+UT WOS:000455575000003
+ER
+
+PT J
+AU Yang, Y
+   Lin, H
+   Xu, Y
+   Pan, H
+   Dong, GT
+   Tang, JP
+AF Yang, Yi
+   Lin, Hai
+   Xu, Yi
+   Pan, Hang
+   Dong, Guangtao
+   Tang, Jianping
+TI Future projections of precipitation extremes over East Asia based on a
+   deep learning downscaled CMIP6 high-resolution (0.1°) dataset
+SO CLIMATIC CHANGE
+RI Tang, Jianping/A-7865-2019; Yang, Yi/JXX-7067-2024
+OI Tang, Jianping/0000-0002-1098-2656; Yang, Yi/0000-0003-4780-4009
+SN 0165-0009
+EI 1573-1480
+PD JAN 13
+PY 2025
+VL 178
+IS 1
+AR 5
+DI 10.1007/s10584-024-03844-w
+UT WOS:001395651000002
+ER
+
+PT J
+AU Xie, XN
+   Myhre, G
+   Liu, XD
+   Li, XZ
+   Shi, ZG
+   Wang, HL
+   Kirkevag, A
+   Lamarque, JF
+   Shindell, D
+   Takemura, T
+   Liu, YG
+AF Xie, Xiaoning
+   Myhre, Gunnar
+   Liu, Xiaodong
+   Li, Xinzhou
+   Shi, Zhengguo
+   Wang, Hongli
+   Kirkevag, Alf
+   Lamarque, Jean-Francois
+   Shindell, Drew
+   Takemura, Toshihiko
+   Liu, Yangang
+TI Distinct responses of Asian summer monsoon to black carbon aerosols and
+   greenhouse gases
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Liu, Xiaodong/E-9512-2011; Takemura, Toshihiko/C-2822-2009; Liu,
+   Yangang/H-6154-2011; Shindell, Drew/D-4636-2012; Myhre,
+   Gunnar/A-3598-2008; Lamarque, Jean-Francois/L-2313-2014; Shi,
+   Zhengguo/F-3106-2011
+OI Liu, Xiaodong/0000-0003-0355-5610; Takemura,
+   Toshihiko/0000-0002-2859-6067; Liu, Yangang/0000-0003-0238-0468;
+   Shindell, Drew/0000-0003-1552-4715; LI, XINZHOU/0000-0001-8438-3552;
+   Xie, Xiaoning/0000-0002-1867-077X; Lamarque,
+   Jean-Francois/0000-0002-4225-5074; 石, 正国/0000-0002-6656-5675; 
+SN 1680-7316
+EI 1680-7324
+PD OCT 21
+PY 2020
+VL 20
+IS 20
+BP 11823
+EP 11839
+DI 10.5194/acp-20-11823-2020
+UT WOS:000580422300001
+ER
+
+PT J
+AU Kim, M
+   Lee, E
+AF Kim, Minseok
+   Lee, Eungul
+TI Validation and Comparison of Climate Reanalysis Data in the East Asian
+   Monsoon Region
+SO ATMOSPHERE
+RI Lee, Eungul/AAJ-2993-2020
+OI Lee, Eungul/0000-0002-1887-1870; 김, 민석/0000-0002-1099-2520
+EI 2073-4433
+PD OCT
+PY 2022
+VL 13
+IS 10
+AR 1589
+DI 10.3390/atmos13101589
+UT WOS:000874162200001
+ER
+
+PT J
+AU Mu, JY
+   Wang, ZL
+AF Mu, Junyu
+   Wang, Zhili
+TI Responses of the East Asian summer monsoon to aerosol forcing
+   inCMIP5models: The role of upper-tropospheric temperature change
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+RI Wang, Zhili/K-4111-2019
+OI Wang, Zhili/0000-0002-4392-3230
+SN 0899-8418
+EI 1097-0088
+PD MAR 15
+PY 2021
+VL 41
+IS 3
+BP 1555
+EP 1570
+DI 10.1002/joc.6887
+EA OCT 2020
+UT WOS:000580471100001
+ER
+
+PT J
+AU Zhuang, BL
+   Li, S
+   Wang, TJ
+   Liu, J
+   Chen, HM
+   Chen, PL
+   Li, MM
+   Xie, M
+AF Zhuang, B. L.
+   Li, S.
+   Wang, T. J.
+   Liu, J.
+   Chen, H. M.
+   Chen, P. L.
+   Li, M. M.
+   Xie, M.
+TI Interaction between the Black Carbon Aerosol Warming Effect and East
+   Asian Monsoon Using RegCM4
+SO JOURNAL OF CLIMATE
+RI Li, Mengmeng/Z-3722-2019; Zhuang, Bingliang/R-3898-2018; Xie,
+   Min/JKJ-0132-2023; Chen, Huimin/KCL-6631-2024; Liu, Jane/AAU-7260-2020
+OI Zhuang, Bingliang/0000-0001-7092-7096; Xie, Min/0000-0002-0697-926X;
+   Chen, Huimin/0000-0003-2937-0825; Liu, Jane/0000-0001-7760-2788
+SN 0894-8755
+EI 1520-0442
+PD NOV
+PY 2018
+VL 31
+IS 22
+BP 9367
+EP 9388
+DI 10.1175/JCLI-D-17-0767.1
+UT WOS:000448736500002
+ER
+
+PT J
+AU Chen, Y
+   Haywood, J
+   Wang, Y
+   Malavelle, F
+   Jordan, G
+   Partridge, D
+   Fieldsend, J
+   De Leeuw, J
+   Schmidt, A
+   Cho, N
+   Oreopoulos, L
+   Platnick, S
+   Grosvenor, D
+   Field, P
+   Lohmann, U
+AF Chen, Ying
+   Haywood, Jim
+   Wang, Yu
+   Malavelle, Florent
+   Jordan, George
+   Partridge, Daniel
+   Fieldsend, Jonathan
+   De Leeuw, Johannes
+   Schmidt, Anja
+   Cho, Nayeong
+   Oreopoulos, Lazaros
+   Platnick, Steven
+   Grosvenor, Daniel
+   Field, Paul
+   Lohmann, Ulrike
+TI Machine learning reveals climate forcing from aerosols is dominated by
+   increased cloud cover
+SO NATURE GEOSCIENCE
+RI ; Malavelle, Florent, Fabien/JMB-5753-2023; Haywood, Jim/GQA-6691-2022;
+   Field, Paul/B-1692-2009; Platnick, Steven/J-9982-2014; Wang,
+   Yu/AAM-1759-2021; Oreopoulos, Lazaros/E-5868-2012; Schmidt,
+   Anja/ABD-7113-2021; Fieldsend, Jonathan/AAF-8135-2021; CHEN,
+   YING/G-8175-2011; Lohmann, Ulrike/B-6153-2009
+OI Jordan, George/0000-0002-3129-4983; Malavelle, Florent,
+   Fabien/0000-0002-2754-9226; Haywood, Jim/0000-0002-2143-6634; Platnick,
+   Steven/0000-0003-3964-3567; Grosvenor, Daniel/0000-0002-4919-7751; Wang,
+   Yu/0000-0002-9480-3570; Partridge, Daniel/0000-0002-5970-901X;
+   Oreopoulos, Lazaros/0000-0001-6061-6905; Schmidt,
+   Anja/0000-0001-8759-2843; Cho, Nayeong/0000-0001-6401-2391; CHEN,
+   YING/0000-0002-0319-4950; 
+SN 1752-0894
+EI 1752-0908
+PD AUG
+PY 2022
+VL 15
+IS 8
+BP 609
+EP +
+DI 10.1038/s41561-022-00991-6
+EA AUG 2022
+UT WOS:000834732800002
+ER
+
+PT J
+AU Tang, YH
+   Duan, AM
+AF Tang, Yuheng
+   Duan, Anmin
+TI Using deep learning to predict the East Asian summer monsoon
+SO ENVIRONMENTAL RESEARCH LETTERS
+RI Tang, Yuheng/JRY-0088-2023; Duan, Anmin/AAJ-5389-2020
+OI Tang, Yuheng/0000-0002-9639-3958; 
+SN 1748-9326
+PD DEC
+PY 2021
+VL 16
+IS 12
+AR 124006
+DI 10.1088/1748-9326/ac34bc
+UT WOS:000718599200001
+ER
+
+PT J
+AU Guo, L
+   Turner, AG
+   Highwood, EJ
+AF Guo, L.
+   Turner, A. G.
+   Highwood, E. J.
+TI Impacts of 20th century aerosol emissions on the South Asian monsoon in
+   the CMIP5 models
+SO ATMOSPHERIC CHEMISTRY AND PHYSICS
+RI Highwood, Ellie/A-2402-2013; Guo, Liang/AAI-6750-2020; Turner,
+   Andrew/D-2286-2009
+OI Guo, Liang/0000-0002-6004-3884; Turner, Andrew/0000-0002-0642-6876
+SN 1680-7316
+EI 1680-7324
+PY 2015
+VL 15
+IS 11
+BP 6367
+EP 6378
+DI 10.5194/acp-15-6367-2015
+UT WOS:000356180900023
+ER
+
+PT J
+AU Jiang, DB
+   Hu, D
+   Tian, ZP
+   Lang, XM
+AF Jiang, Dabang
+   Hu, Dan
+   Tian, Zhiping
+   Lang, Xianmei
+TI Differences between CMIP6 and CMIP5 Models in Simulating Climate over
+   China and the East Asian Monsoon
+SO ADVANCES IN ATMOSPHERIC SCIENCES
+RI Jiang, Dabang/I-2243-2014; Tian, Zhiping/AAD-6061-2019
+SN 0256-1530
+EI 1861-9533
+PD OCT
+PY 2020
+VL 37
+IS 10
+SI SI
+BP 1102
+EP 1118
+DI 10.1007/s00376-020-2034-y
+EA AUG 2020
+UT WOS:000560628900001
+ER
+
+PT J
+AU Wang, ZL
+   Lin, L
+   Xu, YY
+   Che, HZ
+   Zhang, XY
+   Zhang, H
+   Dong, WJ
+   Wang, CS
+   Gui, K
+   Xie, B
+AF Wang, Zhili
+   Lin, Lei
+   Xu, Yangyang
+   Che, Huizheng
+   Zhang, Xiaoye
+   Zhang, Hua
+   Dong, Wenjie
+   Wang, Chense
+   Gui, Ke
+   Xie, Bing
+TI Incorrect Asian aerosols affecting the attribution and projection of
+   regional climate change in CMIP6 models
+SO NPJ CLIMATE AND ATMOSPHERIC SCIENCE
+RI Dong, Wenjie/F-4314-2012; Wang, Zhili/K-4111-2019; CHE,
+   Huizheng/LOR-3983-2024; Gui, Ke/F-6377-2016; Xu, Yangyang/I-1930-2018
+OI Dong, Wenjie/0000-0002-9635-6292; Wang, Zhili/0000-0002-4392-3230; CHE,
+   Huizheng/0009-0007-3236-289X; Zhang, Hua/0000-0001-9165-8649; Gui,
+   Ke/0000-0002-8444-9547; Xu, Yangyang/0000-0001-7173-7761
+SN 2397-3722
+PD JAN 14
+PY 2021
+VL 4
+IS 1
+AR 2
+DI 10.1038/s41612-020-00159-2
+UT WOS:000610671300002
+ER
+
+PT J
+AU Yang, B
+   Zhang, YC
+   Qian, Y
+   Song, FF
+   Leung, LR
+   Wu, PL
+   Guo, Z
+   Lu, YX
+   Huang, AN
+AF Yang, Ben
+   Zhang, Yaocun
+   Qian, Yun
+   Song, Fengfei
+   Leung, L. Ruby
+   Wu, Peili
+   Guo, Zhun
+   Lu, Yixiong
+   Huang, Anning
+TI Better monsoon precipitation in coupled climate models due to bias
+   compensation
+SO NPJ CLIMATE AND ATMOSPHERIC SCIENCE
+RI Leung, Ruby/F-9276-2018; Song, Fengfei/L-8239-2015; qian,
+   yun/E-1845-2011; Yang, Ben/O-8548-2015; 黄, 安宁/K-7473-2019
+OI Leung, Ruby/0000-0002-3221-9467; Song, Fengfei/0000-0002-3004-1749; Lu,
+   Yixiong/0000-0001-9823-9367; Wu, Peili/0000-0001-7908-7062; 
+SN 2397-3722
+PD NOV 22
+PY 2019
+VL 2
+AR 43
+DI 10.1038/s41612-019-0100-x
+UT WOS:000503002200001
+ER
+
+PT J
+AU Li, T
+   Jiang, ZH
+   Treut, HL
+   Li, LR
+   Zhao, LL
+   Ge, LL
+AF Li, Tong
+   Jiang, Zhihong
+   Treut, Herve Le
+   Li, Laurent
+   Zhao, Lilong
+   Ge, Lingling
+TI Machine learning to optimize climate projection over China with
+   multi-model ensemble simulations
+SO ENVIRONMENTAL RESEARCH LETTERS
+RI zhao, lilong/CAG-3938-2022; Li, Laurent/X-3278-2019; Jiang,
+   zhihong/PFR-1140-2026
+OI Li, Laurent/0000-0002-3855-3976; Ge, Lingling/0000-0003-0972-2264; 
+SN 1748-9326
+PD SEP
+PY 2021
+VL 16
+IS 9
+AR 094028
+DI 10.1088/1748-9326/ac1d0c
+UT WOS:000690395100001
+ER
+
+PT J
+AU Huang, DQ
+   Liu, AQ
+   Zheng, YX
+   Zhu, J
+AF Huang, Danqing
+   Liu, Anqi
+   Zheng, Yanxin
+   Zhu, Jian
+TI Inter-Model Spread of the Simulated East Asian Summer Monsoon Rainfall
+   and the Associated Atmospheric Circulations From the CMIP6 Models
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+RI Huang, Danqing/R-3080-2018; Zhu, Jian/E-7225-2011
+OI Huang, Danqing/0000-0002-3112-0617; Liu, Anqi/0009-0000-1913-4680
+SN 2169-897X
+EI 2169-8996
+PD OCT 27
+PY 2022
+VL 127
+IS 20
+AR e2022JD037371
+DI 10.1029/2022JD037371
+UT WOS:000866184900001
+ER
+
+PT J
+AU Singh, D
+   Bollasina, M
+   Ting, MF
+   Diffenbaugh, NS
+AF Singh, Deepti
+   Bollasina, Massimo
+   Ting, Mingfang
+   Diffenbaugh, Noah S.
+TI Disentangling the influence of local and remote anthropogenic aerosols
+   on South Asian monsoon daily rainfall characteristics
+SO CLIMATE DYNAMICS
+RI ; Diffenbaugh, Noah/I-5920-2014
+OI Singh, Deepti/0000-0001-6568-435X; Diffenbaugh,
+   Noah/0000-0002-8856-4964; Bollasina, Massimo/0000-0001-7509-7650
+SN 0930-7575
+EI 1432-0894
+PD MAY
+PY 2019
+VL 52
+IS 9-10
+BP 6301
+EP 6320
+DI 10.1007/s00382-018-4512-9
+UT WOS:000465441400070
+ER
+
+PT J
+AU Sooraj, KP
+   Dhara, C
+   Ayantika, DC
+   Vishisth, K
+   Sumit, KM
+   Turner, AG
+   Krishnan, R
+AF Sooraj, K. P.
+   Dhara, Chirag
+   Ayantika, D. C.
+   Vishisth, Kalik
+   Sumit, K. M.
+   Turner, A. G.
+   Krishnan, R.
+TI Future intensification of Northern Hemisphere monsoons due to declining
+   remote aerosol pollution
+SO ENVIRONMENTAL RESEARCH LETTERS
+RI ; Dhara, Chirag/AAR-7970-2020; Turner, Andrew/D-2286-2009; Dey
+   Choudhury, Ayantika/ABH-3074-2020
+OI Mukherjee, Sumit K/0000-0001-8421-1830; Dhara,
+   Chirag/0000-0003-4282-211X; Vishisth, Kalik/0009-0007-9899-7740; Turner,
+   Andrew/0000-0002-0642-6876; Dey Choudhury, Ayantika/0000-0002-9219-9250
+SN 1748-9326
+PD NOV 1
+PY 2025
+VL 20
+IS 11
+AR 114036
+DI 10.1088/1748-9326/ae0f41
+UT WOS:001596357300001
+ER
+
+PT J
+AU Sun, MA
+   Sung, HM
+   Kim, J
+   Lee, JH
+   Shim, S
+   Byun, YH
+AF Sun, Min-Ah
+   Sung, Hyun Min
+   Kim, Jisun
+   Lee, Jae-Hee
+   Shim, Sungbo
+   Byun, Young-Hwa
+TI Present-day and future projection of East Asian summer monsoon in
+   Coupled Model Intercomparison Project 6 simulations
+SO PLOS ONE
+RI Byun, Young-Hwa/JCO-1048-2023
+OI Byun, Young-Hwa/0000-0002-6074-4461; Sun, MinAh/0000-0001-9722-3654;
+   Sung, Hyun Min/0000-0003-3120-7912
+EI 1932-6203
+PY 2022
+VL 17
+IS 6
+AR e0269267
+DI 10.1371/journal.pone.0269267
+UT WOS:000843567600024
+PM 35658064
+ER
+
+PT J
+AU Liu, CX
+   Dong, MY
+   Wang, YL
+   Wang, XY
+   Liu, Q
+   Chen, ZH
+AF Liu, Chenxi
+   Dong, Manyu
+   Wang, Yulian
+   Wang, Xingye
+   Liu, Qian
+   Chen, Zhihua
+TI Prediction of rainfall erosivity in Eastern Monsoon Region in China
+   based on CMIP6 models
+SO CATENA
+SN 0341-8162
+EI 1872-6887
+PD DEC 1
+PY 2025
+VL 260
+AR 109459
+DI 10.1016/j.catena.2025.109459
+EA SEP 2025
+UT WOS:001577037400001
+ER
+
+PT J
+AU Wang, B
+   Liu, F
+   Wu, RG
+   Ding, QH
+   Qiao, SB
+   Li, J
+   Wu, ZW
+   Sasikumar, K
+   Li, JP
+   Bao, Q
+   Chen, HS
+   Xiang, YH
+AF Wang, Bin
+   Liu, Fei
+   Wu, Renguang
+   Ding, Qinghua
+   Qiao, Shaobo
+   Li, Juan
+   Wu, Zhiwei
+   Sasikumar, Keerthi
+   Li, Jianping
+   Bao, Qing
+   Chen, Haishan
+   Xiang, Yuhang
+TI Advancing Asian Monsoon Climate Prediction under Global Change:
+   Progress, Challenges, and Outlook
+SO ADVANCES IN ATMOSPHERIC SCIENCES
+RI Li, Jianping/I-2661-2012; Wu, Zhiwei/KHE-4328-2024; Chen,
+   Haishan/W-3747-2018; Bao, Qing/A-7765-2012
+OI Chen, Haishan/0000-0002-2403-3187; 
+SN 0256-1530
+EI 1861-9533
+PD JAN
+PY 2026
+VL 43
+IS 1
+BP 1
+EP 29
+DI 10.1007/s00376-025-5019-z
+EA JUL 2025
+UT WOS:001534702100001
+ER
+
+PT J
+AU Singh, C
+   Ganguly, D
+   Sharma, P
+   Mishra, S
+AF Singh, Charu
+   Ganguly, Dilip
+   Sharma, Puneet
+   Mishra, Shiwansha
+TI Climate response of the south Asian monsoon system to West Asia, Tibetan
+   Plateau and local dust emissions
+SO CLIMATE DYNAMICS
+OI Mishra, Shiwansha/0000-0002-5261-6582; Sharma,
+   Puneet/0000-0001-6628-8893; singh, charu/0000-0002-6249-9965
+SN 0930-7575
+EI 1432-0894
+PD NOV
+PY 2019
+VL 53
+IS 9-10
+BP 6245
+EP 6264
+DI 10.1007/s00382-019-04925-8
+UT WOS:000493469900062
+ER
+
+PT J
+AU Jeong, JI
+   Park, RJ
+AF Jeong, Jaein I.
+   Park, Rokjin J.
+TI Winter monsoon variability and its impact on aerosol concentrations in
+   East Asia
+SO ENVIRONMENTAL POLLUTION
+RI ; Park, Rokjin/I-5055-2012
+OI Jeong, Jaein/0000-0002-0603-2295; Park, Rokjin/0000-0001-8922-0234
+SN 0269-7491
+EI 1873-6424
+PD FEB
+PY 2017
+VL 221
+BP 285
+EP 292
+DI 10.1016/j.envpol.2016.11.075
+UT WOS:000392767900028
+PM 27939624
+ER
+
+PT J
+AU Sabeerali, CT
+   Rao, SA
+   Dhakate, AR
+   Salunke, K
+   Goswami, BN
+AF Sabeerali, C. T.
+   Rao, Suryachandra A.
+   Dhakate, A. R.
+   Salunke, K.
+   Goswami, B. N.
+TI Why ensemble mean projection of south Asian monsoon rainfall by CMIP5
+   models is not reliable?
+SO CLIMATE DYNAMICS
+RI Sabeerali, C. T/Z-2127-2019; Anguluri, Suryachandra Rao/ABE-9913-2020
+OI Sabeerali, C. T/0000-0003-1371-1808; Anguluri, Suryachandra
+   Rao/0000-0001-6460-5672
+SN 0930-7575
+EI 1432-0894
+PD JUL
+PY 2015
+VL 45
+IS 1-2
+BP 161
+EP 174
+DI 10.1007/s00382-014-2269-3
+UT WOS:000354712500010
+ER
+
+PT J
+AU Kaskaoutis, DG
+   Houssos, EE
+   Solmon, F
+   Legrand, M
+   Rashki, A
+   Dumka, UC
+   Francois, P
+   Gautam, R
+   Singh, RP
+AF Kaskaoutis, D. G.
+   Houssos, E. E.
+   Solmon, F.
+   Legrand, M.
+   Rashki, A.
+   Dumka, U. C.
+   Francois, P.
+   Gautam, R.
+   Singh, R. P.
+TI Impact of atmospheric circulation types on southwest Asian dust and
+   Indian summer monsoon rainfall
+SO ATMOSPHERIC RESEARCH
+RI Kaskaoutis, Dimitris/ABG-1498-2020; Rashki, Alireza/H-5577-2011; Singh,
+   Ramesh/Z-3814-2019; Dumka, Umesh Chandra/D-3520-2015
+OI Rashki, Alireza/0000-0003-0213-7097; Dumka, Umesh
+   Chandra/0000-0001-7113-6480; Solmon, Fabien/0000-0002-0700-0519
+SN 0169-8095
+EI 1873-2895
+PD MAR 1
+PY 2018
+VL 201
+BP 189
+EP 205
+DI 10.1016/j.atmosres.2017.11.002
+UT WOS:000418981500015
+ER
+
+PT J
+AU Kesavavarthini, T
+   Rajesh, AN
+   Srinivas, CV
+   Kumar, TVL
+AF Kesavavarthini, T.
+   Rajesh, A. Naga
+   Venkata Srinivas, C.
+   Kumar, T. V. Lakshmi
+TI Bias correction of CMIP6 simulations of precipitation over Indian
+   monsoon core region using deep learning algorithms
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+RI /AAF-5233-2019; A, Naga Rajesh/ABF-5749-2020
+OI A, Naga Rajesh/0000-0003-2580-4411
+SN 0899-8418
+EI 1097-0088
+PD JUN 30
+PY 2023
+VL 43
+IS 8
+BP 3749
+EP 3767
+DI 10.1002/joc.8056
+EA MAR 2023
+UT WOS:000948019900001
+ER
+
+PT J
+AU Li, XQ
+   Ting, MF
+   Lee, DE
+AF Li, Xiaoqiong
+   Ting, Mingfang
+   Lee, Dong Eun
+TI Fast Adjustments of the Asian Summer Monsoon to Anthropogenic Aerosols
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Lee, dong eun/LRU-1718-2024
+OI Lee, dong eun/0000-0001-8546-563X; Ting, Mingfang/0000-0002-4302-4614
+SN 0094-8276
+EI 1944-8007
+PD JAN 28
+PY 2018
+VL 45
+IS 2
+BP 1001
+EP 1010
+DI 10.1002/2017GL076667
+UT WOS:000425514300058
+ER
+
+PT J
+AU Ling, FH
+   Li, Y
+   Luo, JJ
+   Zhong, XH
+   Wang, ZB
+AF Ling, Fenghua
+   Li, Yue
+   Luo, Jing-Jia
+   Zhong, Xiaohui
+   Wang, Zhibin
+TI Two deep learning-based bias-correction pathways improve summer
+   precipitation prediction over China
+SO ENVIRONMENTAL RESEARCH LETTERS
+RI Ling, Fenghua/JXX-7638-2024; Luo, Jing-Jia/T-9612-2019
+SN 1748-9326
+PD DEC 1
+PY 2022
+VL 17
+IS 12
+AR 124025
+DI 10.1088/1748-9326/aca68a
+UT WOS:000893772800001
+ER
+
+PT J
+AU Amnuaylojaroen, T
+AF Amnuaylojaroen, Teerachai
+TI High-resolution precipitation downscaling in mainland Southeast Asia: A
+   novel integration of BMA and U-Net CNN
+SO ENVIRONMENTAL MODELLING & SOFTWARE
+RI Amnuaylojaroen, Teerachai/R-5266-2019
+OI Amnuaylojaroen, Teerachai/0000-0003-2758-2592
+SN 1364-8152
+EI 1873-6726
+PD OCT
+PY 2025
+VL 194
+AR 106682
+DI 10.1016/j.envsoft.2025.106682
+EA SEP 2025
+UT WOS:001583621100001
+ER
+
+PT J
+AU Ganguly, D
+   Rasch, PJ
+   Wang, HL
+   Yoon, JH
+AF Ganguly, Dilip
+   Rasch, Philip J.
+   Wang, Hailong
+   Yoon, Jin-Ho
+TI Climate response of the South Asian monsoon system to anthropogenic
+   aerosols
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+RI Wang, Hailong/B-8061-2010; YOON, JIN-HO/A-1672-2009; Rasch,
+   Philip/F-7978-2018
+OI Wang, Hailong/0000-0002-1994-4402; 
+SN 2169-897X
+EI 2169-8996
+PD JUL 13
+PY 2012
+VL 117
+AR D13209
+DI 10.1029/2012JD017508
+UT WOS:000306463300002
+ER
+
+PT J
+AU Wang, ZL
+   Zhang, H
+   Zhang, XY
+AF Wang, Zhili
+   Zhang, Hua
+   Zhang, Xiaoye
+TI Projected response of East Asian summer monsoon system to future
+   reductions in emissions of anthropogenic aerosols and their precursors
+SO CLIMATE DYNAMICS
+RI Wang, Zhili/K-4111-2019
+OI Wang, Zhili/0000-0002-4392-3230
+SN 0930-7575
+EI 1432-0894
+PD SEP
+PY 2016
+VL 47
+IS 5-6
+BP 1455
+EP 1468
+DI 10.1007/s00382-015-2912-7
+UT WOS:000382112000007
+ER
+
+PT J
+AU Ganguly, D
+   Rasch, PJ
+   Wang, HL
+   Yoon, JH
+AF Ganguly, Dilip
+   Rasch, Philip J.
+   Wang, Hailong
+   Yoon, Jin-ho
+TI Fast and slow responses of the South Asian monsoon system to
+   anthropogenic aerosols
+SO GEOPHYSICAL RESEARCH LETTERS
+RI YOON, JIN-HO/A-1672-2009; Rasch, Philip/F-7978-2018; Wang,
+   Hailong/B-8061-2010
+OI Wang, Hailong/0000-0002-1994-4402
+SN 0094-8276
+EI 1944-8007
+PD SEP 25
+PY 2012
+VL 39
+AR L18804
+DI 10.1029/2012GL053043
+UT WOS:000309414600006
+ER
+
+PT J
+AU Jiang, DB
+   Tian, ZP
+AF Jiang DaBang
+   Tian ZhiPing
+TI East Asian monsoon change for the 21st century: Results of CMIP3 and
+   CMIP5 models
+SO CHINESE SCIENCE BULLETIN
+RI Tian, Zhiping/AAD-6061-2019; Jiang, Dabang/I-2243-2014
+OI Tian, Zhiping/0000-0001-7188-6388; 
+SN 1001-6538
+EI 1861-9541
+PD APR
+PY 2013
+VL 58
+IS 12
+SI SI
+BP 1427
+EP 1435
+DI 10.1007/s11434-012-5533-0
+UT WOS:000318127100012
+ER
+
+PT J
+AU Song, FF
+   Zhou, TJ
+   Qian, Y
+AF Song, Fengfei
+   Zhou, Tianjun
+   Qian, Yun
+TI Responses of East Asian summer monsoon to natural and anthropogenic
+   forcings in the 17 latest CMIP5 models
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Song, Fengfei/L-8239-2015; qian, yun/E-1845-2011; ZHOU,
+   Tianjun/C-3195-2012
+OI ZHOU, Tianjun/0000-0002-5829-7279
+SN 0094-8276
+EI 1944-8007
+PD JAN 28
+PY 2014
+VL 41
+IS 2
+BP 596
+EP 603
+DI 10.1002/2013GL058705
+UT WOS:000332991000057
+ER
+
+PT J
+AU Lin, RP
+   Zhu, J
+   Zheng, F
+AF Lin, Renping
+   Zhu, Jiang
+   Zheng, Fei
+TI Decadal shifts of East Asian summer monsoon in a climate model free of
+   explicit GHGs and aerosols
+SO SCIENTIFIC REPORTS
+RI Zheng, Fei/O-8876-2016; Zhu, Jiang/H-6040-2011; Lin,
+   Renping/AAT-5204-2020
+OI Lin, Renping/0000-0003-2050-9413
+SN 2045-2322
+PD DEC 9
+PY 2016
+VL 6
+AR 38546
+DI 10.1038/srep38546
+UT WOS:000389817700001
+ER
+
+PT J
+AU Ha, KJ
+   Moon, S
+   Timmermann, A
+   Kim, D
+AF Ha, Kyung-Ja
+   Moon, Suyeon
+   Timmermann, Axel
+   Kim, Daeha
+TI Future Changes of Summer Monsoon Characteristics and Evaporative Demand
+   Over Asia in CMIP6 Simulations
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Timmermann, Axel/F-4977-2011; Ha, Kyung-Ja/D-7584-2018; Moon,
+   Suyeon/OJT-3813-2025
+OI Timmermann, Axel/0000-0003-0657-2969; Ha, Kyung-Ja/0000-0003-1753-9304;
+   Moon, Suyeon/0000-0001-5940-9589
+SN 0094-8276
+EI 1944-8007
+PD APR 28
+PY 2020
+VL 47
+IS 8
+AR e2020GL087492
+DI 10.1029/2020GL087492
+UT WOS:000530332600028
+ER
+
+PT J
+AU Xu, ZF
+   Han, Y
+   Zhang, MZ
+   Tam, CY
+   Yang, ZL
+   El Kenawy, AM
+   Fu, CB
+AF Xu, Zhongfeng
+   Han, Ying
+   Zhang, Meng-Zhuo
+   Tam, Chi-Yung
+   Yang, Zong-Liang
+   El Kenawy, Ahmed M.
+   Fu, Congbin
+TI Assessing the Performance of a Dynamical Downscaling Simulation Driven
+   by a Bias-Corrected CMIP6 Dataset for Asian Climate
+SO ADVANCES IN ATMOSPHERIC SCIENCES
+RI Kenawy, Ahmed/Y-9137-2018; Xu, Zhongfeng/F-8895-2017; Tam,
+   Francis/T-7218-2018; Yang, Zong-Liang/IZE-2309-2023
+OI Kenawy, Ahmed/0000-0001-6639-6253; 
+SN 0256-1530
+EI 1861-9533
+PD MAY
+PY 2024
+VL 41
+IS 5
+BP 974
+EP 988
+DI 10.1007/s00376-023-3101-y
+EA FEB 2024
+UT WOS:001158127800002
+ER
+
+PT J
+AU Salzmann, M
+   Weser, H
+   Cherian, R
+AF Salzmann, M.
+   Weser, H.
+   Cherian, R.
+TI Robust response of Asian summer monsoon to anthropogenic aerosols in
+   CMIP5 models
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+RI Salzmann, Marc/N-2229-2014; Cherian, Ribu/C-7188-2014
+OI Salzmann, Marc/0000-0002-3987-2303; Cherian, Ribu/0000-0003-2581-4214
+SN 2169-897X
+EI 2169-8996
+PD OCT 16
+PY 2014
+VL 119
+IS 19
+BP 11321
+EP 11337
+DI 10.1002/2014JD021783
+UT WOS:000344053400021
+ER
+
+PT J
+AU Singh, J
+   Cook, BI
+   Marvel, K
+   Mcdermid, S
+   Persad, GG
+   Rajaratnam, B
+   Singh, D
+AF Singh, Jitendra
+   Cook, Benjamin I.
+   Marvel, Kate
+   Mcdermid, Sonali
+   Persad, Geeta G.
+   Rajaratnam, Bala
+   Singh, Deepti
+TI Anthropogenic Aerosols Delay the Emergence of GHGs-Forced Wetting of
+   South Asian Rainy Seasons Under a Fossil-Fuel Intensive Pathway
+SO GEOPHYSICAL RESEARCH LETTERS
+RI ; Cook, Benjamin I/H-2265-2012; /K-1519-2013
+OI Singh, Deepti/0000-0001-6568-435X; Cook, Benjamin I/0000-0002-4501-9229;
+   McDermid, Sonali/0000-0002-4244-772X; 
+SN 0094-8276
+EI 1944-8007
+PD SEP 28
+PY 2023
+VL 50
+IS 18
+AR e2023GL103949
+DI 10.1029/2023GL103949
+UT WOS:001070392800001
+ER
+
+PT J
+AU Ramachandran, S
+   Rupakheti, M
+   Cherian, R
+AF Ramachandran, S.
+   Rupakheti, Maheswar
+   Cherian, R.
+TI Insights into recent aerosol trends over Asia from observations and
+   CMIP6 simulations
+SO SCIENCE OF THE TOTAL ENVIRONMENT
+RI Cherian, Ribu/C-7188-2014; Rupakheti, Maheswar/AAQ-5855-2020
+OI Cherian, Ribu/0000-0003-2581-4214; 
+SN 0048-9697
+EI 1879-1026
+PD FEB 10
+PY 2022
+VL 807
+AR 150756
+DI 10.1016/j.scitotenv.2021.150756
+EA OCT 2021
+PN 1
+UT WOS:000707666100004
+PM 34619211
+ER
+
+PT J
+AU Luo, R
+   Liu, YZ
+   Zhu, QZ
+   Tang, YH
+   Shao, TB
+AF Luo, Run
+   Liu, Yuzhi
+   Zhu, Qingzhe
+   Tang, Yuhan
+   Shao, Tianbin
+TI Effects of aerosols on cloud and precipitation in East-Asian drylands
+SO INTERNATIONAL JOURNAL OF CLIMATOLOGY
+RI Zhu, Qingzhe/KGL-0789-2024; Shao, Tianbin/HIU-0404-2022; /I-1125-2016
+OI Zhu, Qingzhe/0000-0002-5206-2903; Luo, Run/0000-0003-1284-2283; 
+SN 0899-8418
+EI 1097-0088
+PD JUL
+PY 2021
+VL 41
+IS 9
+BP 4603
+EP 4618
+DI 10.1002/joc.7089
+EA MAR 2021
+UT WOS:000630749500001
+ER
+
+PT J
+AU Sabade, SS
+   Kulkarni, A
+   Kripalani, RH
+AF Sabade, S. S.
+   Kulkarni, Ashwini
+   Kripalani, R. H.
+TI Projected changes in South Asian summer monsoon by multi-model global
+   warming experiments
+SO THEORETICAL AND APPLIED CLIMATOLOGY
+SN 0177-798X
+EI 1434-4483
+PD MAR
+PY 2011
+VL 103
+IS 3-4
+BP 543
+EP 565
+DI 10.1007/s00704-010-0296-5
+UT WOS:000287498700022
+ER
+
+PT J
+AU Lyu, AQ
+   Yin, QZ
+   Crucifix, M
+   Sun, YB
+AF Lyu, A. Q.
+   Yin, Q. Z.
+   Crucifix, M.
+   Sun, Y. B.
+TI Diverse Regional Sensitivity of Summer Precipitation in East Asia to Ice
+   Volume, CO2 and Astronomical Forcing
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Sun, Youbin/K-8357-2012
+OI Sun, Youbin/0000-0002-6696-6620; LYU, ANQI/0000-0002-2026-5247; Yin,
+   Qiuzhen/0000-0002-7189-8335
+SN 0094-8276
+EI 1944-8007
+PD APR 16
+PY 2021
+VL 48
+IS 7
+AR e2020GL092005
+DI 10.1029/2020GL092005
+UT WOS:000641974600011
+ER
+
+PT J
+AU Fan, FX
+   Mann, ME
+   Lee, S
+   Evans, JL
+AF Fan, Fangxing
+   Mann, Michael E.
+   Lee, Sukyoung
+   Evans, Jenni L.
+TI Future Changes in the South Asian Summer Monsoon: An Analysis of the
+   CMIP3 Multimodel Projections
+SO JOURNAL OF CLIMATE
+RI ; Mann, Michael/B-8472-2017
+OI Evans, Jenni/0000-0003-3425-0932; Mann, Michael/0000-0003-3067-296X
+SN 0894-8755
+EI 1520-0442
+PD JUN 1
+PY 2012
+VL 25
+IS 11
+BP 3909
+EP 3928
+DI 10.1175/JCLI-D-11-00133.1
+UT WOS:000304736700014
+ER
+
+PT J
+AU Zhang, DP
+   Huang, YY
+   Zhou, BT
+   Wang, HJ
+AF Zhang, Dapeng
+   Huang, Yanyan
+   Zhou, Botao
+   Wang, Huijun
+TI Contributions of External Forcing to the Decadal Decline of the South
+   Asian High
+SO GEOPHYSICAL RESEARCH LETTERS
+RI Zhang, Dapeng/OCL-5953-2025; /AFL-9127-2022
+OI Zhang, Dapeng/0000-0003-0928-5527; Huang, Yanayan/0000-0003-2621-0826; 
+SN 0094-8276
+EI 1944-8007
+PD SEP 16
+PY 2022
+VL 49
+IS 17
+AR e2022GL099384
+DI 10.1029/2022GL099384
+UT WOS:000855317100001
+ER
+
+PT J
+AU MEEHL, GA
+   WASHINGTON, WM
+AF MEEHL, GA
+   WASHINGTON, WM
+TI SOUTH ASIAN SUMMER MONSOON VARIABILITY IN A MODEL WITH DOUBLED
+   ATMOSPHERIC CARBON-DIOXIDE CONCENTRATION
+SO SCIENCE
+SN 0036-8075
+PD MAY 21
+PY 1993
+VL 260
+IS 5111
+BP 1101
+EP 1104
+DI 10.1126/science.260.5111.1101
+UT WOS:A1993LC94200022
+ER
+
+PT J
+AU Hong, CP
+   Zhang, Q
+   Zhang, Y
+   Tang, YH
+   Tong, D
+   He, KB
+AF Hong, Chaopeng
+   Zhang, Qiang
+   Zhang, Yang
+   Tang, Youhua
+   Tong, Daniel
+   He, Kebin
+TI Multi-year downscaling application of two-way coupled WRF v3.4 and CMAQ
+   v5.0.2 over east Asia for regional climate and air quality modeling:
+   model evaluation and aerosol direct effects
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+RI Zhang, Yang/MYR-2210-2025; Tong, Daniel/A-8255-2008; He,
+   Kebin/ABF-5224-2020; Tang, Youhua/D-5205-2016; Zhang,
+   Qiang/AGU-0618-2022; Hong, Chaopeng/AAN-2336-2021
+OI Tong, Daniel/0000-0002-4255-4568; Tang, Youhua/0000-0001-7089-7915;
+   Hong, Chaopeng/0000-0002-8825-9062
+SN 1991-959X
+EI 1991-9603
+PD JUN 29
+PY 2017
+VL 10
+IS 6
+BP 2447
+EP 2470
+DI 10.5194/gmd-10-2447-2017
+UT WOS:000404658000002
+ER
+
+PT J
+AU Li, SL
+   Mahmood, R
+AF Li, Shuanglin
+   Mahmood, Rashed
+TI Projecting South Asian Summer Precipitation in CMIP3 Models: A
+   Comparison of the Simulations with and without Black Carbon
+SO JOURNAL OF METEOROLOGICAL RESEARCH
+RI ; Li, Shuanglin/D-5695-2013
+OI Mahmood, Rashed/0000-0002-3583-2232; 
+SN 2095-6037
+EI 2198-0934
+PD FEB
+PY 2017
+VL 31
+IS 1
+SI SI
+BP 196
+EP 203
+DI 10.1007/s13351-017-6101-y
+UT WOS:000397388400018
+ER
+
+PT J
+AU Saha, A
+   Ghosh, S
+AF Saha, Anamitra
+   Ghosh, Subimal
+TI Can the weakening of Indian Monsoon be attributed to anthropogenic
+   aerosols?
+SO ENVIRONMENTAL RESEARCH COMMUNICATIONS
+RI Ghosh, Subimal/E-8247-2010; Saha, Anamitra/AAI-9456-2020
+OI Ghosh, Subimal/0000-0002-5722-1440; Saha, Anamitra/0000-0001-6513-2934
+SN 2515-7620
+PD JUL 1
+PY 2019
+VL 1
+IS 6
+AR 061006
+DI 10.1088/2515-7620/ab2c65
+UT WOS:000561421400001
+ER
+
+PT J
+AU Li, ZQ
+   Lau, WKM
+   Ramanathan, V
+   Wu, G
+   Ding, Y
+   Manoj, MG
+   Liu, J
+   Qian, Y
+   Li, J
+   Zhou, T
+   Fan, J
+   Rosenfeld, D
+   Ming, Y
+   Wang, Y
+   Huang, J
+   Wang, B
+   Xu, X
+   Lee, SS
+   Cribb, M
+   Zhang, F
+   Yang, X
+   Zhao, C
+   Takemura, T
+   Wang, K
+   Xia, X
+   Yin, Y
+   Zhang, H
+   Guo, J
+   Zhai, PM
+   Sugimoto, N
+   Babu, SS
+   Brasseur, GP
+AF Li, Zhanqing
+   Lau, W. K. -M.
+   Ramanathan, V.
+   Wu, G.
+   Ding, Y.
+   Manoj, M. G.
+   Liu, J.
+   Qian, Y.
+   Li, J.
+   Zhou, T.
+   Fan, J.
+   Rosenfeld, D.
+   Ming, Y.
+   Wang, Y.
+   Huang, J.
+   Wang, B.
+   Xu, X.
+   Lee, S. -S.
+   Cribb, M.
+   Zhang, F.
+   Yang, X.
+   Zhao, C.
+   Takemura, T.
+   Wang, K.
+   Xia, X.
+   Yin, Y.
+   Zhang, H.
+   Guo, J.
+   Zhai, P. M.
+   Sugimoto, N.
+   Babu, S. S.
+   Brasseur, G. P.
+TI Aerosol and monsoon climate interactions over Asia
+SO REVIEWS OF GEOPHYSICS
+RI qian, yun/E-1845-2011; Wang, Kaicun/F-7813-2012; Guo,
+   Jianping/K-1497-2017; Li, Zhanqing/F-4424-2010; Yin, Yan/I-8350-2014;
+   Zhao, Chuanfeng/IAO-1378-2023; Takemura, Toshihiko/C-2822-2009;
+   Ramanathan, Veerabhadran/V-6291-2017; Cribb, Maureen/K-1341-2013; Ming,
+   Yi/F-3023-2012; huang, jianping/A-6600-2012; ZHOU, Tianjun/C-3195-2012;
+   M.G, Manoj/AAI-3639-2021; Zhang, Fang/I-9992-2017; Zhai,
+   Panmao/AGR-2765-2022; Xia, Xiangao/K-8292-2019; Yang, Xin/AGE-1170-2022;
+   Rosenfeld, Daniel/F-6077-2016; Lau, William/E-1510-2012; Fan,
+   Jiwen/E-9138-2011; Li, Jianping/I-2661-2012; Wang, Yuan/A-5816-2013;
+   Liu, Jianjun/F-4673-2014
+OI Wang, Kaicun/0000-0002-7414-5400; Guo, Jianping/0000-0001-8530-8976; Li,
+   Zhanqing/0000-0001-6737-382X; Zhao, Chuanfeng/0000-0002-5196-3996;
+   Takemura, Toshihiko/0000-0002-2859-6067; Cribb,
+   Maureen/0000-0002-9745-3676; huang, jianping/0000-0003-2845-797X; M.G,
+   Manoj/0000-0003-0419-4028; Xia, Xiangao/0000-0002-4187-6311; Rosenfeld,
+   Daniel/0000-0002-0784-7656; Fan, Jiwen/0000-0001-5280-4391; Li,
+   Jianping/0000-0003-0625-1575; Wang, Yuan/0000-0001-6657-8401; 
+SN 8755-1209
+EI 1944-9208
+PD DEC
+PY 2016
+VL 54
+IS 4
+BP 866
+EP 929
+DI 10.1002/2015RG000500
+UT WOS:000393217800004
+ER
+
+PT J
+AU Shiru, MS
+   Shahid, S
+   Chae, ST
+   Chung, ES
+AF Shiru, Mohammed Sanusi
+   Shahid, Shamsuddin
+   Chae, Seung-Taek
+   Chung, Eun-Sung
+TI Replicability of Annual and Seasonal Precipitation by CMIP5 and CMIP6
+   GCMs over East Asia
+SO KSCE JOURNAL OF CIVIL ENGINEERING
+RI Chung, Eun-Sung/U-9010-2019; SHAHID, SHAMSUDDIN/B-5185-2010; Shiru,
+   Mohammed Sanusi/AEW-1182-2022
+OI Chung, Eun-Sung/0000-0002-4329-1800; SHAHID,
+   SHAMSUDDIN/0000-0001-9621-6452; Shiru, Mohammed
+   Sanusi/0000-0002-3904-4241; Chae, Seung Taek/0000-0003-1219-6031
+SN 1226-7988
+EI 1976-3808
+PD APR
+PY 2022
+VL 26
+IS 4
+BP 1978
+EP 1989
+DI 10.1007/s12205-022-0992-6
+EA JAN 2022
+UT WOS:000741226700001
+ER
+
+PT J
+AU Jing, XW
+   Suzuki, K
+   Michibata, T
+AF Jing, Xianwen
+   Suzuki, Kentaroh
+   Michibata, Takuro
+TI The Key Role of Warm Rain Parameterization in Determining the Aerosol
+   Indirect Effect in a Global Climate Model
+SO JOURNAL OF CLIMATE
+RI Jing, Xianwen/K-3868-2019; Michibata, Takuro/HJP-6503-2023; Suzuki,
+   Kentaroh/C-3624-2011
+OI Jing, Xianwen/0000-0003-0698-4971; Michibata,
+   Takuro/0000-0002-1491-0297; Suzuki, Kentaroh/0000-0001-5315-2452
+SN 0894-8755
+EI 1520-0442
+PD JUL
+PY 2019
+VL 32
+IS 14
+BP 4409
+EP 4430
+DI 10.1175/JCLI-D-18-0789.1
+UT WOS:000472652400003
+ER
+
+PT J
+AU Kitoh, A
+AF Kitoh, Akio
+TI The Asian Monsoon and its Future Change in Climate Models: A Review
+SO JOURNAL OF THE METEOROLOGICAL SOCIETY OF JAPAN
+SN 0026-1165
+EI 2186-9057
+PY 2017
+VL 95
+IS 1
+BP 7
+EP 33
+DI 10.2151/jmsj.2017-002
+UT WOS:000396561100003
+ER
+
+PT J
+AU Wu, CL
+   Lin, ZH
+   Liu, XH
+   Li, Y
+   Lu, Z
+   Wu, MX
+AF Wu, Chenglai
+   Lin, Zhaohui
+   Liu, Xiaohong
+   Li, Ying
+   Lu, Zheng
+   Wu, Mingxuan
+TI Can Climate Models Reproduce the Decadal Change of Dust Aerosol in East
+   Asia?
+SO GEOPHYSICAL RESEARCH LETTERS
+RI , Chenglai/AAJ-8147-2020; LIN, Zhaohui/E-9358-2011; Liu,
+   Xiaohong/E-9304-2011; Wu, Mingxuan/IXN-5460-2023
+OI , Chenglai/0000-0002-8397-2424; LIN, Zhaohui/0000-0003-1376-3106; Liu,
+   Xiaohong/0000-0002-3994-5955; Wu, Mingxuan/0000-0003-2970-1102
+SN 0094-8276
+EI 1944-8007
+PD SEP 28
+PY 2018
+VL 45
+IS 18
+BP 9953
+EP 9962
+DI 10.1029/2018GL079376
+UT WOS:000447761300067
+ER
+
+PT J
+AU Wilcox, LJ
+   Allen, RJ
+   Samset, BH
+   Bollasina, MA
+   Griffiths, PT
+   Keeble, J
+   Lund, MT
+   Makkonen, R
+   Merikanto, J
+   O'Donnell, D
+   Paynter, DJ
+   Persad, GG
+   Rumbold, ST
+   Takemura, T
+   Tsigaridis, K
+   Undorf, S
+   Westervelt, DM
+AF Wilcox, Laura J.
+   Allen, Robert J.
+   Samset, Bjorn H.
+   Bollasina, Massimo A.
+   Griffiths, Paul T.
+   Keeble, James
+   Lund, Marianne T.
+   Makkonen, Risto
+   Merikanto, Joonas
+   O'Donnell, Declan
+   Paynter, David J.
+   Persad, Geeta G.
+   Rumbold, Steven T.
+   Takemura, Toshihiko
+   Tsigaridis, Kostas
+   Undorf, Sabine
+   Westervelt, Daniel M.
+TI The Regional Aerosol Model Intercomparison Project (RAMIP)
+SO GEOSCIENTIFIC MODEL DEVELOPMENT
+RI Makkonen, Risto/F-3059-2015; Wilcox, Laura/F-3394-2013; Griffiths,
+   Paul/E-8592-2010; Lund, Marianne Tronstad/J-6465-2016; Tsigaridis,
+   Kostas/K-8292-2012; Paynter, David/N-7227-2019; Takemura,
+   Toshihiko/C-2822-2009; Samset, Bjørn H/H-6828-2016; Merikanto,
+   Joonas/B-1039-2008; Undorf, Sabine/AAA-5687-2022
+OI Wilcox, Laura/0000-0001-5691-1493; Griffiths, Paul/0000-0002-1089-340X;
+   Bollasina, Massimo/0000-0001-7509-7650; Lund, Marianne
+   Tronstad/0000-0001-9911-4160; Keeble, James/0000-0003-2714-1084; Allen,
+   Robert/0000-0003-1616-9719; Samset, Bjørn H/0000-0001-8013-1833;
+   Merikanto, Joonas/0000-0002-1145-2569; Undorf,
+   Sabine/0000-0001-7026-080X; 
+SN 1991-959X
+EI 1991-9603
+PD AUG 3
+PY 2023
+VL 16
+IS 15
+BP 4451
+EP 4479
+DI 10.5194/gmd-16-4451-2023
+UT WOS:001042156200001
+ER
+
+PT J
+AU Chen, GX
+   Wang, WC
+   Chen, JP
+AF Chen, Guoxing
+   Wang, Wei-Chyung
+   Chen, Jen-Ping
+TI Circulation responses to regional aerosol climate forcing in summer over
+   East Asia
+SO CLIMATE DYNAMICS
+CT 13th East Asian Climate (EAC) International Workshop
+CY MAR 24-25, 2016
+CL Beijing, PEOPLES R CHINA
+RI Chen, Jen-Ping/F-2947-2010
+OI Chen, Jen-Ping/0000-0003-4188-6189
+SN 0930-7575
+EI 1432-0894
+PD DEC
+PY 2018
+VL 51
+IS 11-12
+SI SI
+BP 3973
+EP 3984
+DI 10.1007/s00382-018-4267-3
+UT WOS:000451725600002
+ER
+
+PT J
+AU Tai, APK
+   Ma, PHL
+   Chan, YC
+   Chow, MK
+   Ridley, DA
+   Kok, JF
+AF Tai, Amos P. K.
+   Ma, Perry H. L.
+   Chan, Yuk-Chun
+   Chow, Ming-Keung
+   Ridley, David A.
+   Kok, Jasper F.
+TI Impacts of climate and land cover variability and trends on springtime
+   East Asian dust emission over 1982-2010: A modeling study
+SO ATMOSPHERIC ENVIRONMENT
+RI Tai, Amos/AFU-8966-2022; Chan, Yuk-Chun/KUD-3904-2024; Kok,
+   Jasper/A-9698-2008
+OI Chan, Yuk-Chun/0000-0003-4884-7481; 
+SN 1352-2310
+EI 1873-2844
+PD JUN 1
+PY 2021
+VL 254
+AR 118348
+DI 10.1016/j.atmosenv.2021.118348
+EA APR 2021
+UT WOS:000653427800001
+ER
+
+PT J
+AU Kusunoki, S
+   Arakawa, O
+AF Kusunoki, Shoji
+   Arakawa, Osamu
+TI Are CMIP5 Models Better than CMIP3 Models in Simulating Precipitation
+   over East Asia?
+SO JOURNAL OF CLIMATE
+SN 0894-8755
+EI 1520-0442
+PD JUL
+PY 2015
+VL 28
+IS 14
+BP 5601
+EP 5621
+DI 10.1175/JCLI-D-14-00585.1
+UT WOS:000359637800007
+ER
+
+PT J
+AU Kim, HJ
+   Wang, B
+   Ding, QH
+AF Kim, Hyung-Jin
+   Wang, Bin
+   Ding, Qinghua
+TI The Global Monsoon Variability Simulated by CMIP3 Coupled Climate Models
+SO JOURNAL OF CLIMATE
+RI Wang, Bin/ABZ-9828-2022; ding, qinghua/G-1186-2011
+SN 0894-8755
+EI 1520-0442
+PD OCT
+PY 2008
+VL 21
+IS 20
+BP 5271
+EP 5294
+DI 10.1175/2008JCLI2041.1
+UT WOS:000260012200007
+ER
+
+PT J
+AU Min, SK
+   Legutke, S
+   Hense, A
+   Cubasch, U
+   Kwon, WT
+   Oh, JH
+   Schlese, U
+AF Min, SK
+   Legutke, S
+   Hense, A
+   Cubasch, U
+   Kwon, WT
+   Oh, JH
+   Schlese, U
+TI East Asian climate change in the 21st century as simulated by the
+   coupled climate model ECHO-G under IPCCSRES scenarios
+SO JOURNAL OF THE METEOROLOGICAL SOCIETY OF JAPAN
+RI Min, Seung-Ki/B-1431-2010
+OI Min, Seung-Ki/0000-0002-6749-010X; Cubasch, Ulrich/0000-0001-9628-4666
+SN 0026-1165
+EI 2186-9057
+PD FEB
+PY 2006
+VL 84
+IS 1
+BP 1
+EP 26
+DI 10.2151/jmsj.84.1
+UT WOS:000236619300002
+ER
+
+PT J
+AU Yang, XL
+   Yu, XH
+   Wang, YQ
+   He, XG
+   Pan, M
+   Zhang, MR
+   Liu, Y
+   Ren, LL
+   Sheffield, J
+AF Yang, Xiaoli
+   Yu, Xiaohan
+   Wang, Yuqian
+   He, Xiaogang
+   Pan, Ming
+   Zhang, Mengru
+   Liu, Yi
+   Ren, Liliang
+   Sheffield, Justin
+TI The Optimal Multimodel Ensemble of Bias-Corrected CMIP5 Climate Models
+   over China
+SO JOURNAL OF HYDROMETEOROLOGY
+RI Zhang, Mengru/PSM-3090-2026; Pan, Ming/B-6841-2011; He,
+   Xiaogang/R-7189-2017; Yang, Xiaoli/KGK-8051-2024; Sheffield,
+   Justin/A-6388-2008
+OI Sheffield, Justin/0000-0003-2400-0630
+SN 1525-755X
+EI 1525-7541
+PD APR
+PY 2020
+VL 21
+IS 4
+BP 845
+EP 863
+DI 10.1175/JHM-D-19-0141.1
+UT WOS:000590001700003
+ER
+
+PT J
+AU Li, XQ
+   Ting, MF
+   Li, CH
+   Henderson, N
+AF Li, Xiaoqiong
+   Ting, Mingfang
+   Li, Cuihua
+   Henderson, Naomi
+TI Mechanisms of Asian Summer Monsoon Changes in Response to Anthropogenic
+   Forcing in CMIP5 Models
+SO JOURNAL OF CLIMATE
+OI Li, Cuihua/0000-0001-8052-6317; Li, Xiaoqiong/0000-0001-8871-0776;
+   Henderson, Naomi/0000-0002-9531-2159
+SN 0894-8755
+EI 1520-0442
+PD MAY
+PY 2015
+VL 28
+IS 10
+BP 4107
+EP 4125
+DI 10.1175/JCLI-D-14-00559.1
+UT WOS:000354370100012
+ER
+
+PT J
+AU Pathak, R
+   Sahany, S
+   Mishra, SK
+   Dash, SK
+AF Pathak, Raju
+   Sahany, Sandeep
+   Mishra, Saroj Kanta
+   Dash, S. K.
+TI Precipitation Biases in CMIP5 Models over the South Asian Region
+SO SCIENTIFIC REPORTS
+RI Sahany, Sandeep/KXR-6801-2024; PATHAK, RAJU/IVU-8526-2023
+OI PATHAK, RAJU/0000-0002-2734-4300
+SN 2045-2322
+PD JUL 3
+PY 2019
+VL 9
+AR 9589
+DI 10.1038/s41598-019-45907-4
+UT WOS:000473609500015
+ER
+
+PT J
+AU Bollasina, MA
+   Ming, Y
+   Ramaswamy, V
+AF Bollasina, Massimo A.
+   Ming, Yi
+   Ramaswamy, V.
+TI Anthropogenic Aerosols and the Weakening of the South Asian Summer
+   Monsoon
+SO SCIENCE
+RI Ming, Yi/F-3023-2012; Ramaswamy, Venkatachalam/AAJ-6265-2021
+OI Ming, Yi/0000-0002-5324-1305; Bollasina, Massimo/0000-0001-7509-7650
+SN 0036-8075
+EI 1095-9203
+PD OCT 28
+PY 2011
+VL 334
+IS 6055
+BP 502
+EP 505
+DI 10.1126/science.1204994
+UT WOS:000296230500044
+ER
+
+PT J
+AU Ge, F
+   Zhu, SP
+   Luo, HL
+   Zhi, XF
+   Wang, H
+AF Ge, Fei
+   Zhu, Shoupeng
+   Luo, Haolin
+   Zhi, Xiefei
+   Wang, Hao
+TI Future changes in precipitation extremes over Southeast Asia: insights
+   from CMIP6 multi-model ensemble
+SO ENVIRONMENTAL RESEARCH LETTERS
+RI ; Ge, Fei/ACV-9785-2022; Zhu, Shoupeng/IUM-5866-2023; Zhi,
+   Xiefei/AGU-6880-2022
+OI Luo, Haolin/0009-0000-6344-6710; Zhu, Shoupeng/0000-0002-4741-1179; Zhi,
+   Xiefei/0000-0003-4414-0497
+SN 1748-9326
+PD FEB
+PY 2021
+VL 16
+IS 2
+AR 024013
+DI 10.1088/1748-9326/abd7ad
+UT WOS:000609434600001
+ER
+
+PT J
+AU Fadnavis, S
+   Sabin, TP
+   Roy, C
+   Rowlinson, M
+   Rap, A
+   Vernier, JP
+   Sioris, CE
+AF Fadnavis, Suvarna
+   Sabin, T. P.
+   Roy, Chaitri
+   Rowlinson, Matthew
+   Rap, Alexandru
+   Vernier, Jean-Paul
+   Sioris, Christopher E.
+TI Elevated aerosol layer over South Asia worsens the Indian droughts
+SO SCIENTIFIC REPORTS
+RI ; Rap, Alexandru/G-7532-2016; Fadnavis, Suvarna/AAA-7485-2020
+OI TP, Sabin/0000-0002-4744-2987; Rap, Alexandru/0000-0002-2319-6769; Roy,
+   Chaitri/0000-0002-8544-414X; Rowlinson, Matthew/0000-0002-5236-6536
+SN 2045-2322
+PD JUL 16
+PY 2019
+VL 9
+AR 10268
+DI 10.1038/s41598-019-46704-9
+UT WOS:000475558600018
+ER
+
+PT J
+AU Rana, A
+   Nikulin, G
+   Kjellström, E
+   Strandberg, G
+   Kupiainen, M
+   Hansson, U
+   Kolax, M
+AF Rana, Arun
+   Nikulin, Grigory
+   Kjellstrom, Erik
+   Strandberg, Gustav
+   Kupiainen, Marco
+   Hansson, Ulf
+   Kolax, Michael
+TI Contrasting regional and global climate simulations over South Asia
+SO CLIMATE DYNAMICS
+RI Kjellström, Erik/AAF-5947-2020
+OI Strandberg, Gustav/0000-0003-2689-9360; Rana, Arun/0000-0001-9473-7107
+SN 0930-7575
+EI 1432-0894
+PD MAR
+PY 2020
+VL 54
+IS 5-6
+BP 2883
+EP 2901
+DI 10.1007/s00382-020-05146-0
+EA JAN 2020
+UT WOS:000515712800001
+ER
+
+PT J
+AU Supharatid, S
+   Aribarg, T
+   Nafung, J
+AF Supharatid, Seree
+   Aribarg, Thannob
+   Nafung, Jirawat
+TI Bias-corrected CMIP6 climate model projection over Southeast Asia
+SO THEORETICAL AND APPLIED CLIMATOLOGY
+RI ; Aribarg, Thannob/T-4174-2017
+OI SUPHARATID, SEREE/0000-0002-8036-4474; 
+SN 0177-798X
+EI 1434-4483
+PD JAN
+PY 2022
+VL 147
+IS 1-2
+BP 669
+EP 690
+DI 10.1007/s00704-021-03844-1
+EA NOV 2021
+UT WOS:000718731500002
+ER
+
+EF
