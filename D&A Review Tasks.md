@@ -21,6 +21,10 @@
 	- [ ] [[OFM_allen_tett_1999.pdf|OFM GLS formulation & residual consistency test (Allen, Tett 1999)]]
 	- [ ] [[Estimating_Signal_Amplitudes_in_OFM_Allen_Stott_2003.pdf|OFM & TLS]]
 	- [ ] [[ROF_Ribes_et_al_CLIMDYN_2013.pdf|ROF]] (method used in Chaithra 2026)
+- [ ] DL vs Statistical D&A 📅 2026-10-15
+	- [ ] [[Explainable_AI_Single_Forcing_Labe_Barnes_2021.pdf|Labe & Barnes 2021 (JAMES)]] — XAI with single-forcing ensembles, aerosol vs GHG
+	- [ ] [[DA_Using_Neural_Network_Bone_et_al_2023.pdf|Bône et al 2023 (JAMES)]] — CNN attribution vs ROF, non-additive forcings
+	- [ ] [[Robust_DA_Under_Interventions_Szekely_et_al_2022.pdf|Székely et al 2022]] — anchor regression, statistical learning D&A
 - [ ] D&A of Extremes 📅 2026-10-16
 	- [ ] [[Human_Contribution_Precip_Extremes_Min_et_al_2011.pdf|Min et al 2011 (Nature)]] and/or [[Attributing_Precip_Extremes_Zhang_et_al_2013.pdf|Zhang et al 2013 (GRL)]] — GEV probability-index transform
 - [ ] Later / Advanced Reading

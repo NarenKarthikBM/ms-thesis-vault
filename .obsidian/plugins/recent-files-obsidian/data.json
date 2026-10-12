@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CMIP6",
+      "path": "CMIP6.md"
+    },
+    {
+      "basename": "D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026",
+      "path": "Papers/D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026.pdf"
+    },
+    {
       "basename": "D&A Review Tasks",
       "path": "D&A Review Tasks.md"
     },
     {
       "basename": "2026-10-12",
       "path": "2026-10-12.md"
-    },
-    {
-      "basename": "D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026",
-      "path": "Papers/D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026.pdf"
     },
     {
       "basename": "Sippel et al 2019",
@@ -47,10 +51,6 @@
     {
       "basename": "J Adv Model Earth Syst - 2020 - Barnes - Indicator Patterns of Forced Change Learned by an Artificial Neural Network",
       "path": "Papers/D&A Methods/DL/J Adv Model Earth Syst - 2020 - Barnes - Indicator Patterns of Forced Change Learned by an Artificial Neural Network.pdf"
-    },
-    {
-      "basename": "CMIP6",
-      "path": "CMIP6.md"
     }
   ],
   "omittedPaths": [],
