@@ -8,7 +8,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] DAMIP
 	- [ ] RAMIP
 - [ ] Anchor & Concepts 📅 2026-10-13
-	- [ ] [D] [[D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026.pdf|Chaithra et al 2026 — D&A of extreme temp & precip over India (ROF)]]
+	- [x] [D] [[D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026.pdf|Chaithra et al 2026 — D&A of extreme temp & precip over India (ROF)]] ✅ 2026-10-13
 	- [ ] [R] [[IPCC_DA_Good_Practice_Guidance_Hegerl_et_al_2010.pdf|Hegerl et al 2010 — IPCC Good Practice Guidance Paper on D&A]]
 	- [ ] [R] [[IPCC_AR6_WG1_Ch3_Human_Influence_Eyring_et_al_2021.pdf|IPCC AR6 WG1 Ch. 3, Section 3.2 (D&A methods)]]
 	- [ ] [R] [Gillett et al 2016 — DAMIP (GMD)](https://doi.org/10.5194/gmd-9-3685-2016)

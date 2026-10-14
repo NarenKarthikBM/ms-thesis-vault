@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "property": "Type",
+      "value": "note",
+      "folder": "Notes/"
+    }
+  ],
+  "showMoveToast": true,
+  "showDebugToast": false,
+  "watchedFolders": "",
+  "watchRoot": true
+}
