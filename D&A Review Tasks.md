@@ -2,12 +2,12 @@ Reading depth: **[D]** Deep ~1.5 h (full read, maths, detailed notes) · **[R]**
 Log every paper in the literature matrix: region, variable, period, data, models, method, forcings separated, key finding, limitations.
 
 ## Tue 13 — Anchor + D&A concepts
-- [ ] Notes 📅 2026-10-13
+- [ ] Notes 📅 2026-10-21
 	- [ ] D&A
 	- [ ] CMIP6
 	- [ ] DAMIP
 	- [ ] RAMIP
-- [ ] Anchor & Concepts 📅 2026-10-13
+- [ ] Anchor & Concepts 📅 2026-10-21
 	- [x] [D] [[D_A_of_extreme_temp_and_precip_over_India_Chaithra_2026.pdf|Chaithra et al 2026 — D&A of extreme temp & precip over India (ROF)]] ✅ 2026-10-13
 	- [ ] [R] [[IPCC_DA_Good_Practice_Guidance_Hegerl_et_al_2010.pdf|Hegerl et al 2010 — IPCC Good Practice Guidance Paper on D&A]]
 	- [ ] [R] [[IPCC_AR6_WG1_Ch3_Human_Influence_Eyring_et_al_2021.pdf|IPCC AR6 WG1 Ch. 3, Section 3.2 (D&A methods)]]
@@ -20,7 +20,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [Barnes et al 2019 — Forced climate patterns through an AI lens (GRL)](https://doi.org/10.1029/2019GL084944)
 
 ## Wed 14 — Statistics + classic optimal fingerprinting
-- [ ] [[Statistical_Analysis_in_Climate_Research.pdf|Statistical Analysis Book]] 📅 2026-10-14
+- [ ] [[Statistical_Analysis_in_Climate_Research.pdf|Statistical Analysis Book]] 📅 2026-10-22
 	- [ ] Section 2.8 (Random vectors, multivariate normal)
 	- [ ] Section 6.1, 6.2, 6.5 (Hypothesis testing, multivariate tests)
 	- [ ] Section 8.4 (Multiple regression)
@@ -30,7 +30,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] Section 13.3 (EOF inference, truncation / selection rules)
 	- [ ] Section 7.4 (Detecting the CO2 signal — the book's only OFM content)
 	- [ ] Section 2.9 (Extreme value distributions — for extremes D&A)
-- [ ] Classic OFM 📅 2026-10-14
+- [ ] Classic OFM 📅 2026-10-22
 	- [ ] [R] [[Multi_Pattern_Fingerprint_Hasselmann_1997.pdf|Hasselmann 1997 — Multi-pattern fingerprint method (Clim Dyn)]]
 	- [ ] [D] [[OFM_allen_tett_1999.pdf|Allen & Tett 1999 — OFM GLS formulation & residual consistency test]]
 	- [ ] [S] [Ledoit & Wolf 2004 — Well-conditioned covariance estimator (J Multivar Anal)](https://doi.org/10.1016/S0047-259X(03)00096-4)
@@ -38,7 +38,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [[Sippel et al 2019.pdf|Sippel et al 2019 — Forced response from a single ensemble member (J Climate)]]
 
 ## Thu 15 — Modern OFM + the method debate + precipitation D&A
-- [ ] Modern OFM & Debate 📅 2026-10-15
+- [ ] Modern OFM & Debate 📅 2026-10-23
 	- [ ] [D] [[Estimating_Signal_Amplitudes_in_OFM_Allen_Stott_2003.pdf|Allen & Stott 2003 — OFM & TLS]]
 	- [ ] [D] [[ROF_Ribes_et_al_CLIMDYN_2013.pdf|Ribes et al 2013 — ROF]] (method used in Chaithra 2026)
 	- [ ] [R] [Gillett et al 2021 — Human contributions to observed warming (Nat Clim Change)](https://doi.org/10.1038/s41558-020-00965-9)
@@ -49,17 +49,17 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [DelSole et al 2019 — Confidence intervals in OFM (Clim Dyn)](https://doi.org/10.1007/s00382-018-4356-3)
 	- [ ] [S] [Li et al 2021 — Uncertainty in OFM is underestimated (ERL)](https://doi.org/10.1088/1748-9326/ac14ee)
 	- [ ] [S] [[Improved_OFM_2025.pdf|Li et al 2025 — Improved OFM via estimating equations (J Climate)]]
-- [ ] Precipitation D&A 📅 2026-10-15
+- [ ] Precipitation D&A 📅 2026-10-23
 	- [ ] [R] [Zhang et al 2007 — Human influence on 20th-century precipitation trends (Nature)](https://doi.org/10.1038/nature06025)
 	- [ ] [R] [Polson et al 2014 — Aerosols decreased NH monsoon precipitation (GRL)](https://doi.org/10.1002/2014GL060811)
 
 ## Fri 16 — Extremes D&A + observed ISMR changes
-- [ ] Extremes D&A 📅 2026-10-16
+- [ ] Extremes D&A 📅 2026-10-24
 	- [ ] [R] [[Human_Contribution_Precip_Extremes_Min_et_al_2011.pdf|Min et al 2011 — Human contribution to more-intense precipitation extremes (Nature)]]
 	- [ ] [S] [[Attributing_Precip_Extremes_Zhang_et_al_2013.pdf|Zhang et al 2013 — Attributing intensification of precipitation extremes (GRL)]]
 	- [ ] [S] [Zhang et al 2011 — ETCCDI extreme indices (WIREs)](https://doi.org/10.1002/wcc.147)
 	- [ ] [S] [IPCC AR6 WG1 Ch. 8 — Water cycle (monsoon sections)](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-8/) + [Ch. 11 — Extremes (heavy precipitation D&A)](https://www.ipcc.ch/report/ar6/wg1/chapter/chapter-11/)
-- [ ] Observed ISMR Changes 📅 2026-10-16
+- [ ] Observed ISMR Changes 📅 2026-10-24
 	- [ ] [D] [Singh, Ghosh, Roxy & McDermid 2019 — ISMR extremes, historical changes & anthropogenic forcings (WIREs) — closest existing review](https://doi.org/10.1002/wcc.571)
 	- [ ] [D] [Bollasina, Ming & Ramaswamy 2011 — Aerosols and the weakening of the South Asian monsoon (Science)](https://doi.org/10.1126/science.1204994)
 	- [ ] [R] [Turner & Annamalai 2012 — Climate change and the South Asian summer monsoon (Nat Clim Change)](https://doi.org/10.1038/nclimate1495)
@@ -73,7 +73,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [[clim-jcliD190855.pdf|Wills et al 2020 — Pattern recognition to separate forced response (J Climate)]]
 
 ## Sat 17 — Aerosol vs GHG attribution for ISMR
-- [ ] ISMR: Aerosol vs GHG 📅 2026-10-17
+- [ ] ISMR: Aerosol vs GHG 📅 2026-10-25
 	- [ ] [D] [Undorf et al 2018 — Detectable impact of local & remote aerosols on South Asian monsoon (JGR-A)](https://doi.org/10.1029/2017JD027711)
 	- [ ] [D] [Saha & Ghosh 2019 — Can ISMR weakening be attributed to aerosols? OFM fails (ERC)](https://doi.org/10.1088/2515-7620/ab2c65)
 	- [ ] [R] [Guo et al 2015 — 20th-century aerosols and the South Asian monsoon in CMIP5 (ACP)](https://doi.org/10.5194/acp-15-6367-2015)
@@ -90,7 +90,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [Li Z. et al 2016 — Aerosol and monsoon interactions over Asia (Rev Geophys)](https://doi.org/10.1002/2015RG000500)
 
 ## Sun 18 — DL / ML D&A + uncertainty + synthesis
-- [ ] DL & ML D&A 📅 2026-10-18
+- [ ] DL & ML D&A 📅 2026-10-26
 	- [ ] [D] [[J Adv Model Earth Syst - 2020 - Barnes - Indicator Patterns of Forced Change Learned by an Artificial Neural Network.pdf|Barnes et al 2020 — Indicator patterns of forced change (JAMES)]]
 	- [ ] [D] [[DA_Using_Neural_Network_Bone_et_al_2023.pdf|Bône et al 2023 — CNN attribution vs ROF, non-additive forcings (JAMES)]]
 	- [ ] [R] [[Explainable_AI_Single_Forcing_Labe_Barnes_2021.pdf|Labe & Barnes 2021 — XAI with single-forcing ensembles, aerosol vs GHG (JAMES)]]
@@ -100,7 +100,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [R] [Chen et al 2025 — DL + OFM for extreme precipitation in Central China (GRL)](https://doi.org/10.1029/2024GL111818)
 	- [ ] [S] [[J Adv Model Earth Syst - 2022 - Rader - Detection of Forced Change Within Combined Climate Fields Using Explainable Neural.pdf|Rader et al 2022 — Forced change in combined fields (JAMES)]]
 	- [ ] [S] [[Rader_2025_Environ._Res._Commun._7_051005.pdf|Rader et al 2025 — Attribution of record 2023 SST with DL (ERC)]]
-- [ ] Uncertainty & Future 📅 2026-10-18 (fallback: abstracts only)
+- [ ] Uncertainty & Future 📅 2026-10-26 (fallback: abstracts only)
 	- [ ] [S] [Wang Z. et al 2021 — Incorrect Asian aerosols in CMIP6 (npj CAS)](https://doi.org/10.1038/s41612-020-00159-2)
 	- [ ] [S] [Liu et al 2024 — Aerosol monsoon impact modulated by precipitation biases (ACP)](https://doi.org/10.5194/acp-24-7227-2024)
 	- [ ] [S] [Ramachandran et al 2022 — Asian aerosol trends: observations vs CMIP6 (STOTEN)](https://doi.org/10.1016/j.scitotenv.2021.150756)
@@ -108,7 +108,7 @@ Log every paper in the literature matrix: region, variable, period, data, models
 	- [ ] [S] [[J Adv Model Earth Syst - 2023 - Kuma - Climate Model Code Genealogy and Its Relation to Climate Feedbacks and Sensitivity.pdf|Kuma et al 2023 — Model code genealogy / model independence (JAMES)]]
 	- [ ] [S] [Wilcox et al 2020 — Future aerosol reductions accelerate monsoon precipitation (ACP)](https://doi.org/10.5194/acp-20-11955-2020)
 	- [ ] [S] [Singh J. et al 2023 — Aerosols delay emergence of GHG-forced South Asian wetting (GRL)](https://doi.org/10.1029/2023GL103949)
-- [ ] Synthesis 📅 2026-10-18
+- [ ] Synthesis 📅 2026-10-26
 	- [ ] Re-read Chaithra 2026, Saha & Ghosh 2019 and Bône 2023 together → draft the gap statement
 	- [ ] Web of Science "Citing items" check on Bône 2023, Labe & Barnes 2021, Ham 2023 (refine: monsoon OR India)
 	- [ ] Write up the search log (queries, dates, hit counts)
