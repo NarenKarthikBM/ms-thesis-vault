@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "FLUS",
+      "path": "FLUS.md"
+    },
+    {
+      "basename": "2017LUP-FLUS",
+      "path": "Papers/LULC simulations/2017LUP-FLUS.pdf"
+    },
+    {
+      "basename": "System Dynamics (SD)",
+      "path": "System Dynamics (SD).md"
+    },
+    {
+      "basename": "Detection & Attribution of change",
+      "path": "Notes/Detection & Attribution of change.md"
+    },
+    {
       "basename": "handoff-2026-10-31-amendment2",
       "path": "file:/Users/cgmli-mac/Naren/Thesis/docs/rq4/handoff-2026-10-31-amendment2.md"
     },
@@ -27,10 +43,6 @@
     {
       "basename": "IPCC_DA_Good_Practice_Guidance_Hegerl_et_al_2010",
       "path": "Papers/D&A Overview/IPCC_DA_Good_Practice_Guidance_Hegerl_et_al_2010.pdf"
-    },
-    {
-      "basename": "Detection & Attribution of change",
-      "path": "Notes/Detection & Attribution of change.md"
     },
     {
       "basename": "Confounding Factor",
